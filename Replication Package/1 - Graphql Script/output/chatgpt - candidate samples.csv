@@ -1,0 +1,303 @@
+PR URL,PR Title,PR createdAt,PR mergedAt,PR state,stars,fork,collaborators,language
+https://github.com/zeke/all-the-public-replicate-models/pull/3,stats!,2023-10-14T05:33:04Z,2023-10-14T05:33:11Z,MERGED,16,False,3,JavaScript
+https://github.com/zauberzeug/nicegui/pull/2272,Keep updates and messages in outbox until client is connected,2024-01-01T20:21:16Z,2024-01-05T14:13:56Z,MERGED,8280,False,100,Python
+https://github.com/xtdb/xtdb/pull/3021,Add guide for setting up node on AWS using the cloudformation templates,2023-12-04T11:43:59Z,2023-12-05T15:39:32Z,MERGED,2490,False,18,Clojure
+https://github.com/xetdata/xet-core/pull/276,Tableau Workbook Summary,2024-02-29T03:49:05Z,2024-03-15T23:36:32Z,MERGED,20,False,14,Rust
+https://github.com/whatwg/whatwg.org/pull/427,Add URLPattern logo,2023-10-05T04:42:46Z,2023-10-13T06:05:45Z,MERGED,74,False,39,HTML
+https://github.com/whatwg/urlpattern/pull/198,"Use ""inherit left, wildcard right"" behavior in base URL application and constructor string parsing.",2023-10-27T20:40:22Z,2023-11-07T21:53:28Z,MERGED,151,False,14,HTML
+https://github.com/whatwg/html-build/pull/291,Output parse errors for the Rust part of the build step,2024-02-09T05:27:35Z,2024-04-25T02:25:25Z,MERGED,61,False,22,HTML
+https://github.com/vrodriguezf/deepvats/pull/123,"Fix docker image: separate images, shared paths",2024-02-21T13:33:06Z,2024-02-25T11:59:18Z,MERGED,22,False,7,Jupyter Notebook
+https://github.com/unoplatform/workshops/pull/128,fix: add callout for wasm/skia mediaplayer package,2023-11-03T21:26:04Z,2023-11-03T21:37:53Z,MERGED,96,False,39,C#
+https://github.com/unoplatform/uno/pull/12428,fix(skia): Fix element not clipped when render transformed,2023-05-26T16:00:08Z,2023-08-08T20:25:32Z,MERGED,8625,False,100,C#
+https://github.com/unity-atoms/unity-atoms/pull/448,Fix for #440 - Removed GuiData class,2023-12-20T00:24:17Z,2024-01-07T19:23:25Z,MERGED,1180,False,30,C#
+https://github.com/ubiquity/ubiquibot/pull/608,AI: Check for Duplicate Specs,2023-08-11T05:45:32Z,2023-08-27T13:21:45Z,MERGED,16,False,28,TypeScript
+https://github.com/ubiquity/devpool-directory/pull/1062,feat: no backlinks,2024-02-15T16:06:55Z,2024-02-18T06:51:01Z,MERGED,18,False,13,TypeScript
+https://github.com/torrust/torrust-index-gui/pull/185,E2E test: torrent upload,2023-07-13T17:33:08Z,2023-08-03T10:36:12Z,MERGED,29,False,13,Vue
+https://github.com/toptal/picasso/pull/3872,feat(query-builder): move query builder library,2023-09-15T12:40:40Z,2023-10-24T12:01:34Z,MERGED,120,False,100,TypeScript
+https://github.com/tisztamo/Junior/pull/63,Preserve directory entries in attention https://chat.openai.com/share…,2023-08-21T11:44:53Z,2023-08-21T11:44:59Z,MERGED,22,False,5,Shell
+https://github.com/tisztamo/Junior/pull/61,Fix html encoding in generated prompt https://chat.openai.com/share/2…,2023-08-21T09:23:16Z,2023-08-21T09:23:25Z,MERGED,22,False,5,Shell
+https://github.com/tisztamo/Junior/pull/55,Factor out state-clearing to clearState.js,2023-08-17T09:31:58Z,2023-08-17T09:32:04Z,MERGED,22,False,5,Shell
+https://github.com/tisztamo/Junior/pull/36,35 clean install gives npm err notarget no matching version found for docsify cli447,2023-08-06T19:40:31Z,2023-08-06T19:41:53Z,MERGED,22,False,5,Shell
+https://github.com/tisztamo/Junior/pull/109,Add meta/og tags to docs site https://chat.openai.com/share/a2ac1068-…,2023-09-25T12:16:36Z,2023-09-25T12:16:43Z,MERGED,22,False,5,Shell
+https://github.com/tinygrad/tinygrad/pull/1661,Make __getitem__ TINYer,2023-08-24T17:24:19Z,2023-09-03T03:01:01Z,MERGED,25095,False,100,Python
+https://github.com/thingsboard/thingsboard.github.io/pull/1323,ThingsBoard Cloud Subscription plans definition. Updated API Limits,2024-01-23T13:36:51Z,2024-02-16T15:10:25Z,MERGED,120,False,100,JavaScript
+https://github.com/temporalio/temporal/pull/4558,Make all Go source file names snake case,2023-06-28T19:28:21Z,2023-07-03T18:23:56Z,MERGED,10651,False,100,Go
+https://github.com/telosnetwork/open-block-explorer/pull/712,Adding permission waits,2023-06-08T13:40:30Z,2023-06-15T15:42:34Z,MERGED,27,False,20,Vue
+https://github.com/sympy/sympy/pull/26098,Parse LaTeX matrices and literal complex numbers,2024-01-19T13:01:40Z,2024-07-03T17:41:06Z,MERGED,12596,False,100,Python
+https://github.com/swoosh/swoosh/pull/870,add Swoosh.Adapters.Mua,2024-02-27T11:08:04Z,2024-02-27T22:32:01Z,MERGED,1438,False,100,Elixir
+https://github.com/swarmion/swarmion/pull/678,chore: add release authoring documentation,2023-06-02T14:54:19Z,2023-06-16T20:28:16Z,MERGED,139,False,26,TypeScript
+https://github.com/sveltejs/learn.svelte.dev/pull/522,add aria-role:none to get rid of warning,2023-10-26T14:23:27Z,2023-12-15T20:38:55Z,MERGED,483,False,100,Svelte
+https://github.com/supabase/supabase/pull/21827,docs: Adding JS example of multiple foreign keys to the same table,2024-03-07T00:28:09Z,2024-03-07T21:21:31Z,MERGED,68821,False,100,TypeScript
+https://github.com/starknet-id/app.starknet.id/pull/766,feat: add ens integration,2024-05-09T09:50:19Z,2024-05-17T08:11:11Z,MERGED,48,False,10,TypeScript
+https://github.com/ssvlabs/ssv-web/pull/277,"IO1-3631: renamed to gasLimit, fixed bug with incorrect gas",2023-06-22T15:23:24Z,2023-06-27T14:55:46Z,MERGED,22,False,21,TypeScript
+https://github.com/snapshot-labs/snapshot/pull/3937,feat(flagged spaces): conceal flagged spaces similar to flagged proposals,2023-05-27T20:58:03Z,2023-05-29T09:37:56Z,MERGED,9219,False,100,Vue
+https://github.com/skypilot-org/skypilot/pull/3081,"[Core] Make multi-node job fail fast when one fails, and output segment fault",2024-02-04T23:04:15Z,2024-02-09T08:20:58Z,MERGED,6224,False,78,Python
+https://github.com/skrub-data/skrub/pull/581,Merge `underfilled_job_title` with `employee_position_title` in `employee_salaries`,2023-06-08T15:49:41Z,2023-08-03T20:32:44Z,MERGED,1052,False,44,Python
+https://github.com/sindresorhus/type-fest/pull/701,Use Pick type to define Class prototype.,2023-10-10T04:46:34Z,2023-11-13T08:20:55Z,MERGED,13619,False,100,TypeScript
+https://github.com/simonw/llm/pull/65,register_models() plugin hook,2023-06-26T14:44:40Z,2023-07-10T15:39:01Z,MERGED,3489,False,19,Python
+https://github.com/simonw/llm/pull/400,Upgrade to run against OpenAI >= 1.0,2024-01-26T02:18:59Z,2024-01-26T06:00:44Z,MERGED,3489,False,19,Python
+https://github.com/sign-language-processing/sign-language-processing.github.io/pull/38,"Adding ""Querying A Sign Language Dictionary with Videos Using Dense Vector Search"" and add SL Retrieval section",2024-05-16T21:37:55Z,2024-05-22T21:46:11Z,MERGED,100,False,5,TeX
+https://github.com/sign-language-processing/sign-language-processing.github.io/pull/37,"adding ""Conditional Variational Autoencoder for Sign Language Translation with Cross-Modal Alignment""",2024-05-13T20:55:25Z,2024-05-16T18:19:23Z,MERGED,100,False,5,TeX
+https://github.com/shakacode/shakapacker/pull/430,feat!: always use `package_json` for managing node packages,2024-03-08T19:20:59Z,2024-03-31T05:04:40Z,MERGED,406,False,100,Ruby
+https://github.com/shakacode/shakapacker/pull/364,feat: make compilation stale on asset host change,2023-10-04T12:32:47Z,2023-12-01T06:03:57Z,MERGED,406,False,100,Ruby
+https://github.com/shakacode/control-plane-flow/pull/114,Show info header only on first command,2023-11-20T17:21:04Z,2023-12-01T20:44:33Z,MERGED,40,False,6,Ruby
+https://github.com/seamapi/seam-cli/pull/68,Support for adding array parameters e.g. access_codes/list editing parameter access_code_ids,2024-01-10T18:07:04Z,2024-01-11T18:48:58Z,MERGED,85,False,14,TypeScript
+https://github.com/sashabaranov/go-openai/pull/377,"feat: allow more input types to functions, fix tests",2023-06-15T15:49:34Z,2023-06-21T12:58:28Z,MERGED,8641,False,100,Go
+https://github.com/sablier-labs/v2-periphery/pull/191,build: bump core,2023-09-28T10:14:50Z,2023-09-28T18:37:28Z,MERGED,21,False,5,Solidity
+https://github.com/sablier-labs/v2-core/pull/734,Install dependencies with Node.js instead of git modules,2023-12-04T13:51:36Z,2023-12-15T12:34:27Z,MERGED,291,False,11,Solidity
+https://github.com/sCrypt-Inc/scryptTS-docs/pull/209,Update webhook programmatic registration,2023-09-25T13:33:44Z,2023-09-29T17:46:05Z,MERGED,10,False,13,MDX
+https://github.com/rust-lang/rfcs/pull/3463,"Add ""crates.io Policy Update"" RFC",2023-07-24T13:37:52Z,2023-11-07T09:32:15Z,MERGED,5793,False,100,Markdown
+https://github.com/robotology/icub-models-generator/pull/252,Add model for iCubGenova11,2024-01-09T13:14:50Z,2024-01-11T09:14:15Z,MERGED,14,False,26,C++
+https://github.com/roboflow/supervision/pull/177,Add ConfusionMatrix to EvaluationAPI,2023-07-04T19:50:59Z,2023-07-21T11:31:26Z,MERGED,17183,False,77,Python
+https://github.com/rhysmorgan134/node-CarPlay/pull/70,Feature: optimise example video,2023-10-06T12:09:50Z,2023-10-10T07:09:00Z,MERGED,131,False,10,TypeScript
+https://github.com/reworkd/AgentGPT/pull/897,🎉 Workflows,2023-06-29T04:15:46Z,2023-07-03T22:56:43Z,MERGED,30640,False,70,TypeScript
+https://github.com/raspiblitz/raspiblitz/pull/4312,trigger safe shutdown with rpi5 power button,2023-12-10T07:06:04Z,2023-12-13T11:11:13Z,MERGED,2415,False,100,Python
+https://github.com/rapidsai/cuspatial/pull/1295,Fix broken hausdorff test,2023-11-15T02:23:08Z,2023-11-16T15:21:25Z,MERGED,580,False,58,Jupyter Notebook
+https://github.com/rancher-sandbox/rancher-desktop/pull/5602,"Changes no row text for containers, images and port forwarding",2023-09-28T00:59:14Z,2023-10-03T20:42:45Z,MERGED,5710,False,60,TypeScript
+https://github.com/radix-vue/radix-vue/pull/100,dev: refactor playground to sort components alphabetically.,2023-06-28T16:24:43Z,2023-06-28T16:24:58Z,MERGED,2985,False,100,Vue
+https://github.com/pyspark-ai/pyspark-ai/pull/157,LRU Vector Store Policy,2023-10-08T14:32:14Z,2023-10-11T17:43:30Z,MERGED,828,False,16,Python
+https://github.com/pyspark-ai/pyspark-ai/pull/1,Add llm_verify function,2023-06-13T23:40:26Z,2023-06-16T19:29:46Z,MERGED,828,False,16,Python
+https://github.com/pyg-team/pytorch-frame/pull/281,Clean up `col_to_pattern` logic,2023-12-08T03:43:26Z,2023-12-08T07:38:22Z,MERGED,479,False,23,Python
+https://github.com/pwncollege/dojo/pull/219,WIP: Initial implementation of daily backups to cloud storage. ,2023-09-14T05:56:49Z,2024-04-01T04:52:47Z,MERGED,264,False,22,Python
+https://github.com/primer-io/primer-sdk-ios/pull/816,chore: Added consumption of jwt token in appetize links,2024-03-08T16:00:03Z,2024-03-14T09:10:55Z,MERGED,12,False,20,Swift
+https://github.com/primer-io/primer-sdk-ios/pull/723,chore: Add card validation logic for remote validation and co-badged cards,2023-11-02T16:29:39Z,2023-11-07T13:02:53Z,MERGED,12,False,20,Swift
+https://github.com/pollen-robotics/rustypot/pull/50,Adding xm device,2024-04-30T09:42:52Z,2024-05-03T11:28:22Z,MERGED,16,False,8,Rust
+https://github.com/pokt-network/poktroll/pull/338,[Service] NIT followups to `AddService` in #316,2024-01-19T16:29:19Z,2024-01-19T21:41:23Z,MERGED,15,False,9,Go
+https://github.com/pokt-network/poktroll/pull/31,[Pkg] feat: add channel observable,2023-10-09T09:00:00Z,2023-10-20T08:55:52Z,MERGED,15,False,9,Go
+https://github.com/pokt-network/poktroll/pull/284,[Configs] Add foundation for RelayMiner operation configs.,2023-12-19T06:21:38Z,2024-01-04T20:58:04Z,MERGED,15,False,9,Go
+https://github.com/pokt-network/poktroll/pull/220,[Off-Chain] Add `EventsReplayClient` Generic Event Listener for `BlockClient` and `DelegationClient`,2023-11-23T21:52:18Z,2023-12-07T21:57:39Z,MERGED,15,False,9,Go
+https://github.com/pokt-network/poktroll/pull/185,[Supplier] feat: Add staking flag and config parser,2023-11-14T16:29:14Z,2023-11-20T23:30:16Z,MERGED,15,False,9,Go
+https://github.com/poki/netlib/pull/50,Postgress doesn't support LIMIT in DELETE,2023-08-21T13:24:13Z,2023-08-21T13:30:48Z,MERGED,29,False,8,Go
+https://github.com/plausible/analytics/pull/3921,Include domain and dates in zip archive filename,2024-03-21T04:07:51Z,2024-03-21T10:35:42Z,MERGED,19054,False,100,Elixir
+https://github.com/plausible/analytics/pull/3905,make robots.txt restrictive by default,2024-03-17T05:47:25Z,2024-03-19T11:07:30Z,MERGED,19054,False,100,Elixir
+https://github.com/pass-culture/pass-culture-main/pull/9227,(PC-25708)[API] fix: handle duplication during offer creation/edition,2023-11-20T16:00:16Z,2023-11-27T16:23:43Z,MERGED,141,False,100,Python
+https://github.com/pass-culture/pass-culture-app-native/pull/5423,(PC-23726) feat(location): add a location widget in search bar,2023-10-10T15:22:56Z,2023-10-13T07:56:48Z,MERGED,63,False,79,TypeScript
+https://github.com/osmosis-labs/osmosis-frontend/pull/1936,Web worker router (multi threading),2023-07-31T03:41:00Z,2023-08-04T01:38:26Z,MERGED,214,False,100,JavaScript
+https://github.com/ory/elements/pull/171,fix: disable button on submit,2023-12-13T07:47:34Z,2023-12-13T09:17:58Z,MERGED,84,False,28,TypeScript
+https://github.com/openwallet-foundation/credo-ts/pull/1754,test: some improvements,2024-02-12T07:56:57Z,2024-02-14T05:09:41Z,MERGED,248,False,65,TypeScript
+https://github.com/opensearch-project/opensearch-migrations/pull/297,Add MetricsLogger to the Capture Proxy,2023-09-07T05:39:59Z,2023-09-08T22:06:09Z,MERGED,31,False,18,Java
+https://github.com/openai/evals/pull/771,"for lack of a better name, ""gpt protocol buffers""",2023-04-23T11:52:34Z,2023-06-08T21:14:17Z,MERGED,14370,False,100,Python
+https://github.com/openai/evals/pull/1083,[Eval] Viewport to grid size,2023-06-02T02:53:27Z,2023-07-04T02:05:57Z,MERGED,14370,False,100,Python
+https://github.com/open-learning-exchange/myplanet/pull/2234,adding more Spanish to strings (fixes #2233),2023-07-20T16:03:45Z,2023-07-24T10:37:09Z,MERGED,23,False,37,Kotlin
+https://github.com/open-learning-exchange/myplanet/pull/2232,adding Arabic to strings (fixes #2219),2023-07-20T15:56:34Z,2023-07-24T11:44:31Z,MERGED,23,False,37,Kotlin
+https://github.com/open-learning-exchange/myplanet/pull/2231,adding Somali to strings (fixes #2218) ,2023-07-20T15:42:24Z,2023-07-24T11:03:58Z,MERGED,23,False,37,Kotlin
+https://github.com/open-learning-exchange/myplanet/pull/2230,adding Nepali to strings (fixes #2217),2023-07-20T14:39:08Z,2023-07-24T11:15:05Z,MERGED,23,False,37,Kotlin
+https://github.com/open-learning-exchange/myplanet/pull/2229,adding French to strings (fixes #2216),2023-07-20T14:16:56Z,2023-07-24T10:20:08Z,MERGED,23,False,37,Kotlin
+https://github.com/nylas/nylas-python/pull/279,Add support for free-busy endpoint,2023-10-02T23:35:45Z,2023-10-10T21:34:08Z,MERGED,100,False,50,Python
+https://github.com/nishiki-tech/nishiki-frontend/pull/271,Feature: Apply a correct link to the back button of each page,2024-02-26T23:34:49Z,2024-02-29T03:15:06Z,MERGED,17,False,10,TypeScript
+https://github.com/nishiki-tech/nishiki-frontend/pull/223,Feat: Create `RenameGroupForm` ,2024-02-06T20:20:27Z,2024-02-14T18:23:16Z,MERGED,17,False,10,TypeScript
+https://github.com/nishiki-tech/nishiki-frontend/pull/184,Feat : Create checkbox component,2024-01-13T07:17:47Z,2024-01-17T20:39:01Z,MERGED,17,False,10,TypeScript
+https://github.com/nickbabcock/OhmGraphite/pull/379,HTTPS support for Prometheus Exporter,2023-06-19T23:46:30Z,2023-07-06T21:55:02Z,MERGED,398,False,10,C#
+https://github.com/netket/netket/pull/1631,Don't require models to support more than 1 batch axis,2023-11-02T12:58:29Z,2023-11-06T17:05:21Z,MERGED,520,False,69,Python
+https://github.com/netdata/netdata/pull/15485,Add a machine distinct id to analytics,2023-07-21T12:31:47Z,2023-07-24T18:00:27Z,MERGED,69512,False,100,C
+https://github.com/netdata/netdata/pull/15455,readme: reorder cols in whats new and add links,2023-07-19T20:06:21Z,2023-07-25T11:15:41Z,MERGED,69512,False,100,C
+https://github.com/ndsev/erdblick/pull/90,"Snapshot candidate: ERD-27, ERD-69, ERD-70, ERD-71, ERD-76, ERD-77",2024-02-09T08:04:03Z,2024-03-06T12:00:17Z,MERGED,10,False,7,C
+https://github.com/nbd-wtf/nostr-tools/pull/241,nip19: use template literal types,2023-07-02T02:41:22Z,2023-07-02T17:22:05Z,MERGED,650,False,77,TypeScript
+https://github.com/mongo-express/mongo-express-docker/pull/93,Added multi-variant support,2023-09-28T18:09:08Z,2023-10-02T16:39:22Z,MERGED,198,False,20,Shell
+https://github.com/monarch-initiative/oai-monarch-plugin/pull/39,"basic sim search implemented, gene and disease queries only",2023-06-23T16:25:01Z,2023-06-23T16:25:19Z,MERGED,13,False,4,Python
+https://github.com/mlflow/mlflow/pull/9991,Gateway dependency,2023-10-18T08:24:38Z,2023-10-19T05:10:54Z,MERGED,17902,False,100,Python
+https://github.com/mindee/doctr/pull/1205,[Feat] Add PARSeq model TF and PT,2023-05-30T08:07:05Z,2023-06-15T10:53:56Z,MERGED,3345,False,47,Python
+https://github.com/microsoft/autogen/pull/1982,AutoDefense Blog,2024-03-12T21:34:15Z,2024-03-30T21:33:20Z,MERGED,28304,False,100,Jupyter Notebook
+https://github.com/meta-llama/llama-recipes/pull/279,Llama 2 On-Prem Inference Using vLLM and TGI,2023-11-01T00:41:16Z,2023-11-06T22:14:13Z,MERGED,10419,False,80,Jupyter Notebook
+https://github.com/memfault/interrupt/pull/469,publish: eoss recap 2024,2024-05-08T18:48:39Z,2024-05-09T02:23:02Z,MERGED,454,False,80,C
+https://github.com/mdn/content/pull/30321,Packets goes _between_ server and client,2023-11-16T23:40:59Z,2023-11-17T05:50:24Z,MERGED,8983,False,100,Markdown
+https://github.com/mdn/content/pull/27070,chore(CI): disable prettier check on pull requests,2023-05-31T14:29:05Z,2023-07-24T13:33:44Z,MERGED,8983,False,100,Markdown
+https://github.com/maybe-finance/maybe/pull/228,feat: add `/securities` route to get all securities to display to the user ,2024-01-25T18:58:16Z,2024-02-02T14:50:53Z,MERGED,28741,False,61,Ruby
+https://github.com/marqo-ai/marqo/pull/670,Embedding similarity uses closeness max function,2023-12-18T07:22:02Z,2023-12-20T23:25:55Z,MERGED,4324,False,33,Python
+https://github.com/linexjlin/GPTs/pull/48,Create Pepegen.md,2023-12-19T16:33:17Z,2023-12-20T04:22:23Z,MERGED,27757,False,33,
+https://github.com/linexjlin/GPTs/pull/43,"feat: add ""tsDoc Generator""",2023-12-14T02:57:19Z,2023-12-14T05:20:22Z,MERGED,27757,False,33,
+https://github.com/linexjlin/GPTs/pull/41,Update YT Summarizer prompt,2023-12-13T04:18:32Z,2023-12-13T13:23:06Z,MERGED,27757,False,33,
+https://github.com/lightward/mechanic-tasks/pull/282,Mark incoming orders automatically Ready For Pick Up,2023-09-26T02:45:00Z,2023-09-26T02:46:24Z,MERGED,62,False,14,JavaScript
+https://github.com/lfortran/lfortran/pull/2446,Introduce and implement `--legacy-array-sections`,2023-09-18T08:01:05Z,2023-09-20T05:20:52Z,MERGED,904,False,86,C++
+https://github.com/ldez/tagliatelle/pull/22,"Add ""toml"" tag in README",2023-10-03T10:12:29Z,2023-10-03T15:42:16Z,MERGED,47,False,7,Go
+https://github.com/lcompilers/lpython/pull/2323,[small] tidy up warnings,2023-09-13T05:58:32Z,2023-09-15T19:56:17Z,MERGED,1413,False,77,C++
+https://github.com/latitude-dev/latitude/pull/20,Run queries from queries,2024-02-14T09:48:01Z,2024-02-14T14:35:10Z,MERGED,771,False,8,TypeScript
+https://github.com/langroid/langroid/pull/301,support neo4j to make query and write to a DB,2023-11-16T22:59:05Z,2024-01-16T22:08:29Z,MERGED,1968,False,16,Python
+https://github.com/lamalab-org/chem-bench/pull/93,paraphrase,2023-11-28T12:16:12Z,2023-12-04T11:47:45Z,MERGED,37,False,12,Jupyter Notebook
+https://github.com/lamalab-org/chem-bench/pull/59,add US olympiad,2023-10-10T20:12:09Z,2023-10-10T20:43:00Z,MERGED,37,False,12,Jupyter Notebook
+https://github.com/lamalab-org/chem-bench/pull/52,more olympiad questions,2023-10-05T11:08:55Z,2023-10-05T13:10:06Z,MERGED,37,False,12,Jupyter Notebook
+https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner/pull/1091,add option to enable or disable k3s local-storage controller,2023-11-09T17:29:58Z,2023-11-24T16:22:02Z,MERGED,2006,False,100,HCL
+https://github.com/konfuzio-ai/konfuzio-sdk/pull/296,Changed: Paragraph and Sentence Tokenizer Documentation,2023-05-16T21:33:38Z,2023-07-06T20:46:27Z,MERGED,58,False,25,Jupyter Notebook
+https://github.com/kolibril13/ipyMolecularNodes/pull/1,switch to pypi version of MolecularNodes,2023-09-28T06:54:15Z,2023-09-28T08:31:04Z,MERGED,52,False,2,Jupyter Notebook
+https://github.com/jxnl/instructor/pull/186,improve documentation Readme,2023-11-16T00:05:22Z,2023-11-16T00:14:49Z,MERGED,6628,False,100,Python
+https://github.com/jsdom/jsdom/pull/3644,Proposal: New CSS selector engine for jsdom,2023-12-23T15:13:03Z,2024-01-07T12:26:06Z,MERGED,20199,False,100,JavaScript
+https://github.com/joke2k/faker/pull/1988,Consistent error handling for mis-ordered start-dates and end-dates,2024-02-06T19:50:33Z,2024-02-06T22:16:45Z,MERGED,17348,False,100,Python
+https://github.com/jhipster/generator-jhipster/pull/22429,feat : Upgrade keycloak 21.x ,2023-06-05T20:55:35Z,2023-06-08T21:53:56Z,MERGED,21330,False,100,TypeScript
+https://github.com/inculi/Sue/pull/54,Add is_ignored to Models.Chat,2023-10-22T21:41:19Z,2023-10-22T21:41:32Z,MERGED,25,False,7,Elixir
+https://github.com/hashintel/hash/pull/4063,"H-2095, H-2096: Add API endpoints, OAuth2 access flow for custom GPT",2024-02-20T15:17:46Z,2024-02-22T13:18:47Z,MERGED,997,False,48,TypeScript
+https://github.com/hacktoberfestkorea/hacktoberfestkorea/pull/241,Create add_hacktoberfest_tag github action,2023-10-15T05:03:18Z,2023-10-15T05:17:28Z,MERGED,70,False,100,HTML
+https://github.com/hackforla/CivicTechJobs/pull/477,Fix mkdocs deployment,2023-11-07T22:51:11Z,2023-11-08T00:30:25Z,MERGED,18,False,20,TypeScript
+https://github.com/groundlight/python-sdk/pull/142,Removed `/python-sdk/` as the docs' base URL ,2023-12-13T18:30:50Z,2023-12-13T22:23:25Z,MERGED,43,False,22,Python
+https://github.com/gravitational/teleport/pull/19316,tsh: Implement puttyconfig command to add saved PuTTY sessions to Windows registry,2022-12-13T04:41:29Z,2023-07-05T18:11:45Z,MERGED,17002,False,100,Go
+https://github.com/gradle/gradle/pull/26792,Use an immutable workspace for all non-incremental transforms,2023-10-20T12:00:07Z,2023-11-02T22:28:45Z,MERGED,16388,False,100,Groovy
+https://github.com/gradio-app/gradio/pull/7918,ensure entire dropdown is clickable,2024-04-02T23:16:37Z,2024-04-08T17:06:14Z,MERGED,30856,False,100,Python
+https://github.com/gradio-app/gradio/pull/5179,Fixes audio streaming issues,2023-08-10T22:35:45Z,2023-08-11T17:16:30Z,MERGED,30856,False,100,Python
+https://github.com/globalbibletools/gbt/pull/114,docs: Organize routes with tags,2023-06-27T23:46:08Z,2023-06-28T03:16:59Z,MERGED,15,False,4,TypeScript
+https://github.com/githubdoe/DFTFringe/pull/52,fix some compilation warnings [-Wunused,2023-07-22T16:07:27Z,2023-07-25T23:19:14Z,MERGED,154,False,6,C++
+https://github.com/ggerganov/llama.cpp/pull/1807,Metal implementation for all k_quants,2023-06-11T20:41:33Z,2023-06-12T19:39:21Z,MERGED,61498,False,100,C++
+https://github.com/ggerganov/llama.cpp/pull/1775,metal : faster q40,2023-06-09T07:32:43Z,2023-06-09T07:39:59Z,MERGED,61498,False,100,C++
+https://github.com/ggerganov/llama.cpp/pull/1684,k-quants,2023-06-03T15:24:31Z,2023-06-05T19:56:19Z,MERGED,61498,False,100,C++
+https://github.com/g12-4soat/tech-lanches/pull/66,criando arquivos do k8s + shell de execução unificado,2023-11-20T22:01:37Z,2023-11-24T00:45:20Z,MERGED,10,False,7,C#
+https://github.com/fscarmen2/Argo-Nezha-Service-Container/pull/23,feat: clear history to optimze repo size,2023-06-14T04:41:06Z,2023-06-15T02:13:06Z,MERGED,570,False,6,Shell
+https://github.com/fr0gger/Awesome-GPT-Agents/pull/27,Add impacketGPT in README.md,2023-11-15T16:52:42Z,2023-11-15T21:50:05Z,MERGED,4971,False,36,
+https://github.com/formbricks/formbricks/pull/2351,feat: Video upload,2024-03-28T08:03:33Z,2024-04-05T04:46:15Z,MERGED,6028,False,100,TypeScript
+https://github.com/formbricks/formbricks/pull/2100,fix: Rating issue fix,2024-02-19T11:37:42Z,2024-02-22T10:54:35Z,MERGED,6028,False,100,TypeScript
+https://github.com/flyingsaucerproject/flyingsaucer/pull/277,simplify API for creating PDF,2024-02-28T07:23:20Z,2024-03-04T15:12:19Z,MERGED,1953,False,100,Java
+https://github.com/firezone/firezone/pull/3621,feat(android): UI notification for reauth,2024-02-10T22:04:43Z,2024-03-30T18:15:25Z,MERGED,6478,False,46,Elixir
+https://github.com/featureform/featureform/pull/1195,Register batch features,2023-12-04T14:47:01Z,2023-12-13T23:14:43Z,MERGED,1746,False,31,Jupyter Notebook
+https://github.com/fcitx-contrib/fcitx5-macos/pull/113,use weak_ptr to avoid async uaf,2024-04-19T04:59:58Z,2024-04-19T07:24:18Z,MERGED,86,False,4,Swift
+https://github.com/faker-js/faker/pull/2724,feat(locale): extend Uzbek locale for date and color,2024-03-07T07:53:45Z,2024-03-15T09:48:06Z,MERGED,12170,False,100,TypeScript
+https://github.com/faker-js/faker/pull/2658,infra: use text eol=lf,2024-02-10T08:53:13Z,2024-02-11T00:57:01Z,MERGED,12170,False,100,TypeScript
+https://github.com/faker-js/faker/pull/2405,ci: check mergable by label,2023-09-18T07:08:36Z,2023-09-20T13:39:39Z,MERGED,12170,False,100,TypeScript
+https://github.com/faker-js/faker/pull/2230,feat(locale): add Esperanto,2023-07-01T00:40:42Z,2023-08-26T12:35:01Z,MERGED,12170,False,100,TypeScript
+https://github.com/expo/expo/pull/27307,[router] fix router.push not pushing the same route multiple times,2024-02-27T05:26:14Z,2024-02-28T23:36:12Z,MERGED,31103,False,100,TypeScript
+https://github.com/exa-labs/exa-py/pull/5,fixed incorrect description of type arg in metaphor.search,2023-08-26T21:17:35Z,2023-08-26T21:19:56Z,MERGED,73,False,9,Python
+https://github.com/equinix/metal-cli/pull/405,"fix: Add cleanups in device,vlan and ports e2e tests to stabilise the CI pipeline",2023-12-11T20:48:11Z,2023-12-18T19:04:38Z,MERGED,58,False,45,Go
+https://github.com/empirical-org/Empirical-Core/pull/11308,AGDR/ Configure Overview section,2023-12-05T22:07:43Z,2023-12-07T22:05:37Z,MERGED,25,False,100,Ruby
+https://github.com/dust-tt/dust/pull/508,"Github connector (initial full sync, issues only)",2023-05-26T09:30:02Z,2023-06-06T09:48:37Z,MERGED,902,False,45,TypeScript
+https://github.com/dragonflydb/dragonfly/pull/2153,fix(memcached): add length check for key values,2023-11-09T10:17:58Z,2023-11-20T12:37:30Z,MERGED,24539,False,100,C++
+https://github.com/dotnet/aspire/pull/2949,Fix for invalid parameter names.,2024-03-16T06:36:24Z,2024-03-18T03:08:33Z,MERGED,3388,False,100,C#
+https://github.com/dotCMS/core/pull/25432,[Issue 25281]: Build new custom tab navigation button menu,2023-07-06T15:28:20Z,2023-07-11T22:29:51Z,MERGED,805,False,100,Java
+https://github.com/domeccleston/sharegpt/pull/30,fix: share button missing,2022-12-24T01:18:35Z,2022-12-24T01:48:58Z,MERGED,1717,False,11,TypeScript
+https://github.com/devhatt/pet-dex-backend/pull/67,Listar pets do usuário #39,2024-01-09T17:58:47Z,2024-03-05T22:28:43Z,MERGED,43,False,21,Go
+https://github.com/detekt/detekt/pull/5937,Potential new rule: DoubleNegativeLambda,2023-03-24T23:18:18Z,2023-04-06T13:23:21Z,MERGED,6126,False,100,Kotlin
+https://github.com/deso-protocol/core/pull/875,feature/pos-syncing-and-steady-state,2023-12-16T17:59:41Z,2024-02-07T20:39:14Z,MERGED,325,False,34,Go
+https://github.com/decred/dcrdex/pull/2333,packaging: dexc-desktop packaging for Darwin,2023-05-01T12:50:00Z,2023-06-01T18:43:21Z,MERGED,177,False,38,Go
+https://github.com/dasch-swiss/dsp-tools/pull/907,fix: excel2properties no longer crashes if optional columns are missing (DEV-3468),2024-04-09T07:21:19Z,2024-04-09T09:08:58Z,MERGED,10,False,17,Python
+https://github.com/darklang/dark/pull/5087,Use type errors in more places,2023-09-20T05:57:23Z,2023-09-21T13:50:54Z,MERGED,1641,False,72,F#
+https://github.com/darklang/dark/pull/5068,Expand the Standard Library: Option and Result,2023-09-11T12:24:24Z,2023-09-14T16:47:38Z,MERGED,1641,False,72,F#
+https://github.com/darklang/dark/pull/5063,#5060 -Requested changes,2023-09-06T18:27:59Z,2023-09-14T16:12:17Z,MERGED,1641,False,72,F#
+https://github.com/darklang/dark/pull/5058,Move Some List and String builtins to packages,2023-09-04T13:56:14Z,2023-09-06T01:40:24Z,MERGED,1641,False,72,F#
+https://github.com/daeuniverse/dae/pull/300,docs(en): update how-it-works,2023-08-25T14:35:02Z,2023-08-25T23:59:31Z,MERGED,2702,False,28,Go
+https://github.com/coderdojo-japan/coderdojo.jp/pull/1592,Make financial URL to be RESTful: `/financial-report` -> `/finances` ,2024-03-22T06:52:39Z,2024-03-22T06:56:12Z,MERGED,62,False,98,Ruby
+https://github.com/coderdojo-japan/coderdojo.jp/pull/1543,Remove .coffee and use .js in the partial that uses it,2023-07-04T07:36:25Z,2023-07-04T07:47:10Z,MERGED,62,False,98,Ruby
+https://github.com/codeigniter4/CodeIgniter4/pull/8230,feat: add DataConverter to convert types,2023-11-18T08:29:02Z,2024-02-04T02:09:17Z,MERGED,5219,False,100,PHP
+https://github.com/codecrafters-io/frontend/pull/1061,CC-859 add stripe invoice details,2023-12-08T03:22:16Z,2023-12-13T16:35:11Z,MERGED,37,False,17,JavaScript
+https://github.com/citusdata/activerecord-multi-tenant/pull/199,Wrap ActiveRecord::Base with ActiveSupport.on_load,2023-05-30T12:48:25Z,2023-06-05T05:34:35Z,MERGED,710,False,54,Ruby
+https://github.com/chitalian/gptask/pull/2,Fix: recursive/glob support,2023-07-24T18:09:25Z,2023-07-24T19:52:21Z,MERGED,10,False,2,Python
+https://github.com/chatwoot/chatwoot/pull/8921,fix: downcase email before finding,2024-02-13T13:37:11Z,2024-02-21T13:21:00Z,MERGED,19677,False,100,Ruby
+https://github.com/chatwoot/chatwoot/pull/8231,feat: implement redis database number,2023-10-27T10:13:03Z,2024-05-02T23:42:14Z,MERGED,19677,False,100,Ruby
+https://github.com/chatwoot/chatwoot/pull/8136,feat: Facebook delivery reports,2023-10-18T05:53:25Z,2023-11-20T06:52:45Z,MERGED,19677,False,100,Ruby
+https://github.com/celestiaorg/celestia-app/pull/1880,docs: update shares specs,2023-06-05T19:29:14Z,2023-06-16T22:37:57Z,MERGED,328,False,71,Go
+https://github.com/cataclysmbnteam/Cataclysm-BN/pull/4241,feat(UI): make empty-handed unarmed damage bonus more visible,2024-02-20T22:39:29Z,2024-02-22T01:17:35Z,MERGED,629,False,100,C++
+https://github.com/cataclysmbnteam/Cataclysm-BN/pull/3130,fix: `open_url` not working on windows,2023-09-11T00:23:53Z,2023-09-11T15:29:26Z,MERGED,629,False,100,C++
+https://github.com/cardano-foundation/CIPs/pull/380,CIP-1694? | A First Step Towards On-Chain Decentralized Governance,2022-11-17T23:57:59Z,2023-06-30T18:59:30Z,MERGED,464,False,100,JavaScript
+https://github.com/camel-ai/camel/pull/400,Add code interpreter module,2023-12-06T14:36:07Z,2024-01-14T16:59:58Z,MERGED,4764,False,39,Python
+https://github.com/bystrogenomics/bystro/pull/385,Extracted and Updated proteomics,2024-01-31T23:08:09Z,2024-03-12T20:02:48Z,MERGED,42,False,16,Python
+https://github.com/box/developer.box.com/pull/533,APIMGMT-251: Add versioning strategy documentation,2024-04-16T08:26:47Z,2024-04-18T07:29:36Z,MERGED,23,False,53,JavaScript
+https://github.com/boostcampwm2023/baekjoonrooms/pull/50,feat/docker-setting : 도커 설정 ,2023-11-21T08:06:15Z,2023-11-22T03:29:55Z,MERGED,29,False,7,TypeScript
+https://github.com/bitcoin/bitcoin/pull/28846,depends: fix libmultiprocess build on aarch64,2023-11-10T17:15:53Z,2023-12-13T10:44:27Z,MERGED,77153,False,100,C++
+https://github.com/binary-com/deriv-app/pull/9007,Rostislav / Wall-455 / Transaction list filter (Demo&Real),2023-06-13T14:17:24Z,2023-07-05T02:49:50Z,MERGED,52,False,100,TypeScript
+https://github.com/betagouv/beta.gouv.fr/pull/16244,Optimisation configuration Nginx,2023-11-02T10:14:06Z,2024-01-08T19:26:44Z,MERGED,246,False,100,JavaScript
+https://github.com/badass-courses/course-builder/pull/83,feat: content metadata to represent content pieces,2024-02-27T20:15:10Z,2024-02-27T22:17:23Z,MERGED,294,False,10,TypeScript
+https://github.com/bacalhau-project/bacalhau/pull/3959,refactor: define config instance. config is no longer global,2024-04-26T02:00:30Z,2024-05-30T16:36:35Z,MERGED,643,False,63,Go
+https://github.com/axone-protocol/docs/pull/364,feat: improve footer,2023-12-19T17:49:41Z,2024-01-03T14:55:19Z,MERGED,38,False,37,SCSS
+https://github.com/axolotl-ai-cloud/axolotl/pull/1504,Correctly handle splits for datasets.arrow_dataset.Dataset objects,2024-04-09T15:29:36Z,2024-04-09T20:40:26Z,MERGED,6897,False,100,Python
+https://github.com/autowarefoundation/autoware-github-actions/pull/241,build: disable internet access during the build step,2023-07-23T18:59:26Z,2023-09-20T10:01:22Z,MERGED,16,False,22,Python
+https://github.com/asyncapi/website/pull/1013,docs: add protocol concepts doc,2022-10-11T13:01:33Z,2022-12-06T07:59:53Z,MERGED,350,False,100,TypeScript
+https://github.com/asyncapi/website/pull/1005,docs: new guide for message validation,2022-10-06T04:41:25Z,2023-02-24T22:26:59Z,MERGED,350,False,100,TypeScript
+https://github.com/astahmer/openapi-zod-client/pull/151,fix(#147): improve handling of anyOf,2023-06-05T15:27:22Z,2023-06-06T14:10:07Z,MERGED,683,False,44,TypeScript
+https://github.com/appsmithorg/appsmith-docs/pull/691,fix: Connecting to Datasource - Rehaul,2022-12-19T10:05:46Z,2023-02-01T08:06:10Z,MERGED,81,False,54,MDX
+https://github.com/app-sre/qontract-reconcile/pull/3630,[jira-permissions-validator] introduce integration,2023-07-03T11:59:06Z,2023-07-03T12:09:32Z,MERGED,28,False,58,Python
+https://github.com/annuaire-entreprises-data-gouv-fr/site/pull/796,feat: basic actes implementation and confirmite refacto,2023-11-21T17:47:36Z,2023-11-29T17:38:43Z,MERGED,51,False,19,TypeScript
+https://github.com/angr/angr/pull/4403,Rewrite dfs_back_edges to be iterative,2024-01-03T12:27:51Z,2024-01-10T15:04:57Z,MERGED,7350,False,100,Python
+https://github.com/amidaware/community-scripts/pull/182,Update Win_Chocolatey_Manage_Apps_Bulk.ps1,2023-09-19T11:08:39Z,2023-09-20T14:17:04Z,MERGED,103,False,59,PowerShell
+https://github.com/alteryx/locust-grasshopper/pull/25,Inno: Add global tagging for all db metrics,2023-09-12T05:49:39Z,2023-09-26T22:45:22Z,MERGED,173,False,5,Python
+https://github.com/alshedivat/al-folio/pull/2059,Enable specifying explicit list of external posts to display,2024-01-10T05:23:50Z,2024-05-28T00:15:44Z,MERGED,9915,False,100,HTML
+https://github.com/aleph-im/aleph-vm/pull/460,Use standard system package for ECDSA verification  and add tests,2023-11-09T10:17:15Z,2024-05-16T14:13:51Z,MERGED,41,False,20,Python
+https://github.com/alcionai/corso/pull/4417,Add logic to check if the JWT token has expired,2023-10-02T06:55:23Z,2023-10-09T10:06:01Z,MERGED,170,False,26,Go
+https://github.com/airbytehq/airbyte/pull/36898,`source-faker`: update the car prices and years,2024-04-08T18:10:10Z,2024-04-09T13:37:26Z,MERGED,14792,False,100,Python
+https://github.com/airbytehq/airbyte/pull/33679,airbyte-lib: Add telemetry,2023-12-20T16:03:59Z,2024-01-16T09:25:25Z,MERGED,14792,False,100,Python
+https://github.com/aiplanethub/genai-stack/pull/21,Model Component,2023-08-29T10:46:37Z,2023-08-31T13:03:45Z,MERGED,123,False,14,Jupyter Notebook
+https://github.com/agentcoinorg/evo.ninja/pull/629,fix: on mobile manually set input font-size to avoid needless zooming,2023-12-18T22:55:55Z,2023-12-19T00:14:31Z,MERGED,1050,False,15,TypeScript
+https://github.com/agentcoinorg/evo.ninja/pull/206,prevent script writer from writing recursive scripts,2023-09-25T11:08:34Z,2023-09-25T12:08:29Z,MERGED,1050,False,15,TypeScript
+https://github.com/agentcoinorg/evo.ninja/pull/167,"Refactored core lib into 'agent-utils', 'evo-agent' and 'script-writer-agent' libs",2023-09-14T17:08:19Z,2023-09-16T12:46:48Z,MERGED,1050,False,15,TypeScript
+https://github.com/agentcoinorg/AutoTx/pull/68,Analyze prompt pre-step to find unsupported prompts or missing info,2024-03-22T12:52:27Z,2024-03-23T23:30:20Z,MERGED,82,False,8,Python
+https://github.com/adobe/aem-core-forms-components/pull/878,Forms 7896 switch component2,2023-09-15T11:13:37Z,2023-10-11T08:34:19Z,MERGED,25,False,62,JavaScript
+https://github.com/WordPress/gutenberg/pull/54172,Top Toolbar: Prevent the focus outline of the button from being cut off,2023-09-05T04:17:40Z,2023-09-06T13:36:45Z,MERGED,10004,False,100,JavaScript
+https://github.com/WalletConnect/push-server/pull/235,fix: adding `... FOR UPDATE` to lock the row while client creation,2023-10-04T19:55:58Z,2023-10-05T17:40:23Z,MERGED,25,False,11,Rust
+https://github.com/VOICEVOX/voicevox_engine/pull/904,整理: 疑問形 upspeak の単純化,2023-12-19T08:22:22Z,2023-12-21T05:24:41Z,MERGED,1253,False,45,Python
+https://github.com/VOICEVOX/voicevox_engine/pull/716,Github Actions とpre-commitにpoetry exportを適用,2023-07-09T10:27:11Z,2023-07-18T11:38:36Z,MERGED,1253,False,45,Python
+https://github.com/VOICEVOX/voicevox_engine/pull/1209,feat: 脆弱性診断結果をdiscordに通知させる,2024-05-02T08:19:29Z,2024-05-07T03:47:17Z,MERGED,1253,False,45,Python
+https://github.com/VOICEVOX/voicevox_engine/pull/1122,整理: シェルスクリプトに lint を適用,2024-03-17T17:38:15Z,2024-04-07T15:26:23Z,MERGED,1253,False,45,Python
+https://github.com/VOICEVOX/voicevox_core/pull/761,`StyleMeta::r#type`を追加し、トークという区分を実装に導入する,2024-03-07T17:09:53Z,2024-05-06T11:46:44Z,MERGED,835,False,36,Rust
+https://github.com/VOICEVOX/voicevox_core/pull/655,古いpoetry.lockを弾く,2023-10-23T17:08:05Z,2023-10-24T01:56:15Z,MERGED,835,False,36,Rust
+https://github.com/VOICEVOX/voicevox_core/pull/555,Python APIの`Synthesizer`を`close()`可能にする,2023-07-30T04:42:21Z,2023-08-15T16:27:15Z,MERGED,835,False,36,Rust
+https://github.com/VOICEVOX/voicevox_core/pull/538,[vvm-async-api] Add: ユーザー辞書APIを追加,2023-07-08T15:05:40Z,2023-07-22T14:01:36Z,MERGED,835,False,36,Rust
+https://github.com/VOICEVOX/voicevox_core/pull/532,ドキュメントを刷新する,2023-06-25T14:03:16Z,2023-08-02T11:22:43Z,MERGED,835,False,36,Rust
+https://github.com/VOICEVOX/voicevox/pull/1934,Add: Ctrl+Shift+ドラッグで追加選択できるように,2024-03-15T12:24:06Z,2024-03-20T22:51:00Z,MERGED,2403,False,87,TypeScript
+https://github.com/VOICEVOX/voicevox/pull/1859,fix 歌wave出力時のデフォルトファイル名を変更,2024-02-19T15:45:52Z,2024-02-20T18:54:01Z,MERGED,2403,False,87,TypeScript
+https://github.com/VOICEVOX/voicevox/pull/1844,feat: 不適切なフォルダにファイルを保存できないようにする,2024-02-13T14:40:26Z,2024-02-26T16:48:14Z,MERGED,2403,False,87,TypeScript
+https://github.com/VOICEVOX/voicevox/pull/1836,[ソング] Undo/Redoの実装,2024-02-09T22:18:43Z,2024-02-20T18:39:18Z,MERGED,2403,False,87,TypeScript
+https://github.com/VOICEVOX/voicevox/pull/1829,ソングエディタの編集状態を保存できるようにする,2024-02-06T22:12:26Z,2024-02-17T17:43:46Z,MERGED,2403,False,87,TypeScript
+https://github.com/VOICEVOX/voicevox/pull/1790,[ソング] Improve: エンジン起動前の画面を良い感じにする,2024-01-29T12:03:24Z,2024-02-13T18:23:32Z,MERGED,2403,False,87,TypeScript
+https://github.com/VOICEVOX/voicevox/pull/1621,[project-s] 拍子周りの修正とリファクタリング,2023-10-25T14:10:50Z,2023-10-25T17:57:35Z,MERGED,2403,False,87,TypeScript
+https://github.com/VOICEVOX/voicevox/pull/1573,feat: モーラが編集不可な場合カーソルを変え、理由を表示する,2023-09-23T02:35:47Z,2023-10-10T15:16:52Z,MERGED,2403,False,87,TypeScript
+https://github.com/VOICEVOX/voicevox/pull/1555,同じ読みのアクセント句はパラメータを保持するように,2023-09-16T06:02:27Z,2023-09-28T16:34:01Z,MERGED,2403,False,87,TypeScript
+https://github.com/VOICEVOX/voicevox/pull/1546,複数選択：キャラクターを変更できるように,2023-09-12T11:59:06Z,2023-09-19T16:25:05Z,MERGED,2403,False,87,TypeScript
+https://github.com/VOICEVOX/voicevox/pull/1470,複数選択：選択だけ実装,2023-08-04T01:34:36Z,2023-09-01T22:32:51Z,MERGED,2403,False,87,TypeScript
+https://github.com/VOICEVOX/voicevox/pull/1404,Quasar dialog を3種に分類し、notify、loading と共に`Dialog.ts`へ,2023-07-16T14:45:19Z,2023-07-31T20:59:10Z,MERGED,2403,False,87,TypeScript
+https://github.com/VOICEVOX/voicevox/pull/1384,テキスト欄内でルビを設定できるようにする #1383,2023-07-11T01:36:41Z,2023-07-12T14:58:02Z,MERGED,2403,False,87,TypeScript
+https://github.com/VOICEVOX/voicevox/pull/1374,コンテキストメニューのVue化,2023-07-06T14:25:19Z,2023-07-22T22:56:59Z,MERGED,2403,False,87,TypeScript
+https://github.com/VOICEVOX/voicevox/pull/1351,Add: プロジェクトロード周りのエラーハンドリングを追加,2023-06-27T21:03:19Z,2023-07-06T15:01:42Z,MERGED,2403,False,87,TypeScript
+https://github.com/TurboWarp/extensions/pull/1035,"Policy on AI (ChatGPT, Bard, etc.)",2023-09-14T03:39:24Z,2023-09-22T14:31:10Z,MERGED,108,False,55,JavaScript
+https://github.com/TeamCodeStream/codestream/pull/1638,Anomaly detection notifications and support for more languages,2023-07-26T15:09:38Z,2023-07-28T17:47:53Z,MERGED,928,False,67,TypeScript
+https://github.com/SharezoneApp/sharezone-app/pull/980,Fix Multiline Release Notes Handling in GitHub Action,2023-09-16T12:06:14Z,2023-09-16T15:03:40Z,MERGED,259,False,10,Dart
+https://github.com/SharezoneApp/sharezone-app/pull/880,Implementation of `sz deploy android` command,2023-09-04T15:51:42Z,2023-09-04T18:11:35Z,MERGED,259,False,10,Dart
+https://github.com/SerenityOS/serenity/pull/22213,"AK: Print timestamp, process name, and pid on all platforms",2023-12-08T20:54:40Z,2023-12-12T17:11:24Z,MERGED,29774,False,100,C++
+https://github.com/SchemaStore/schemastore/pull/3002,Add a schema for Prometheus rules test files,2023-06-14T00:11:00Z,2023-06-14T16:36:43Z,MERGED,2954,False,100,JavaScript
+https://github.com/SalesforceCommerceCloud/pwa-kit/pull/1528,@W-14446652@ Change CSP enforcement to an opt-in middleware.,2023-11-07T17:30:26Z,2023-11-07T23:25:44Z,MERGED,276,False,48,JavaScript
+https://github.com/SSWConsulting/SSW.Rules.Content/pull/7614,Update rule.md,2023-12-20T04:49:39Z,2023-12-20T05:01:09Z,MERGED,44,False,100,JavaScript
+https://github.com/SSWConsulting/SSW.Rules.Content/pull/6250,Action points from review with Adam,2023-08-07T13:49:12Z,2023-08-07T19:34:52Z,MERGED,44,False,100,JavaScript
+https://github.com/Rhetos/Rhetos/pull/479,Fix some warnings,2024-01-15T13:55:36Z,2024-01-16T21:56:26Z,MERGED,48,False,18,C#
+https://github.com/PrivateBin/PrivateBin/pull/1134,Update and create new issue templates for better catgeorisation,2023-08-07T17:24:13Z,2023-08-07T18:31:18Z,MERGED,6082,False,100,PHP
+https://github.com/PostHog/posthog.com/pull/6456,add guide to troubleshoot missing events,2023-08-08T10:41:57Z,2023-08-09T15:07:56Z,MERGED,375,False,100,TypeScript
+https://github.com/PolicyEngine/policyengine-us/pull/3987,Utah at-home parent credit refundability is backwards,2024-02-23T15:33:02Z,2024-03-14T12:29:23Z,MERGED,95,False,100,Python
+https://github.com/PolicyEngine/policyengine-us/pull/3275,Add California alternative minimum tax (AMT),2023-11-17T18:39:08Z,2024-02-25T23:55:12Z,MERGED,95,False,100,Python
+https://github.com/PolicyEngine/policyengine-us/pull/3258,Montana Elderly Residential Property Tax Credit (Renter/Homeowner),2023-11-09T23:12:00Z,2024-01-06T13:51:11Z,MERGED,95,False,100,Python
+https://github.com/PolicyEngine/policyengine-us/pull/2764,Pell Grant,2023-08-02T21:43:04Z,2023-08-18T23:45:47Z,MERGED,95,False,100,Python
+https://github.com/PickNikRobotics/moveit_studio_ur_ws/pull/220,Fix schedule problem,2024-02-22T06:49:37Z,2024-02-25T11:22:14Z,MERGED,19,False,27,C++
+https://github.com/PaulRBerg/prb-proxy/pull/119,refactor: ownership redesign,2023-06-17T18:41:44Z,2023-06-28T18:50:01Z,MERGED,272,False,5,Solidity
+https://github.com/OthersideAI/self-operating-computer/pull/57,"Added -accurate, reflective mouse click mode",2023-12-02T06:35:09Z,2023-12-03T16:35:46Z,MERGED,8222,False,24,Python
+https://github.com/OthersideAI/self-operating-computer/pull/52,Voice functionality added with Whisper,2023-12-01T21:33:58Z,2023-12-05T14:15:44Z,MERGED,8222,False,24,Python
+https://github.com/OpenDevin/OpenDevin/pull/1204,lint: simplify hooks already covered by Ruff,2024-04-18T10:15:52Z,2024-04-27T11:32:15Z,MERGED,28588,False,100,Python
+https://github.com/Northeastern-Electric-Racing/FinishLine/pull/2021,#1661: added auto-incrementing identifier in RR,2024-01-29T03:39:17Z,2024-02-28T18:50:48Z,MERGED,25,False,100,TypeScript
+https://github.com/NixOS/foundation/pull/144,Add CoC and deescalation docs for Zulip,2024-05-02T16:52:42Z,2024-05-02T22:07:45Z,MERGED,63,False,13,
+https://github.com/Mudlet/Mudlet/pull/7123,Fix a crash when double-clicking on a word to select it,2024-02-07T19:29:39Z,2024-04-25T15:25:07Z,MERGED,711,False,100,C++
+https://github.com/Mudlet/Mudlet/pull/7120,Fix: prevent an out of bounds crash in copy(),2024-02-03T19:46:47Z,2024-02-17T17:04:04Z,MERGED,711,False,100,C++
+https://github.com/MrNeRF/gaussian-splatting-cuda/pull/23,"Lower CUDA requirement to 11.7, auto-detect CUDA_ARCHITECTURES",2023-08-23T09:04:11Z,2023-08-23T11:27:14Z,MERGED,857,False,5,C
+https://github.com/MindPort-GmbH/VR-Builder/pull/176,New referencing system,2024-02-23T11:02:38Z,2024-03-06T15:27:56Z,MERGED,48,False,5,C#
+https://github.com/MatrixAI/Polykey/pull/609,Addressing crashes from failing background connections,2023-10-25T07:40:12Z,2023-11-03T01:48:57Z,MERGED,29,False,18,TypeScript
+https://github.com/MatrixAI/Polykey/pull/604,`Provider.checkToken` will no longer treat empty `refreshToken` strings as invalid tokens and fixed use of `__proto__` as `identityId` in `IdentitiesManager`,2023-10-25T00:54:56Z,2023-10-26T01:11:50Z,MERGED,29,False,18,TypeScript
+https://github.com/MatrixAI/Polykey/pull/552,Consolidating Configuration Entropy and Nodes and Client Services Refactoring,2023-08-16T13:29:46Z,2023-10-04T06:03:18Z,MERGED,29,False,18,TypeScript
+https://github.com/MartinsOnuoha/what-should-i-design/pull/8,🧹 chore: seeded more problem-statements across different categories …,2023-10-28T10:31:23Z,2023-10-28T10:40:40Z,MERGED,10,False,3,Vue
+https://github.com/MERLCenter/MERL-Center-public/pull/112,HCD principles in conducting a Needs Assessment,2023-05-10T18:24:27Z,2023-09-26T14:52:40Z,MERGED,26,False,23,SCSS
+https://github.com/MATRIX-feather/LLin/pull/1,添加翻译,2023-10-13T15:02:58Z,2023-10-15T03:38:13Z,MERGED,49,False,2,C#
+https://github.com/Ludeon/RimWorld-ru/pull/1571,WorkGiver changes,2023-07-07T09:21:43Z,2023-07-22T16:25:00Z,MERGED,183,False,89,C#
+https://github.com/KudoAI/chatgpt.js/pull/92,Added shareChat,2023-07-15T12:43:14Z,2023-07-16T16:37:24Z,MERGED,1821,False,20,JavaScript
+https://github.com/Koenkk/zigbee-herdsman/pull/992,Emit nwk event on concentratorIndCb,2024-03-26T13:33:46Z,2024-03-28T19:56:48Z,MERGED,467,False,100,TypeScript
+https://github.com/JuliaDocs/Documenter.jl/pull/2394,Add support for `CollapsedDocStrings` in `@meta` block,2024-01-08T03:51:58Z,2024-02-04T23:41:31Z,MERGED,799,False,100,Julia
+https://github.com/JanusGraph/janusgraph/pull/4409,Added retry logic if client request returns an error code that is configured for retrying,2024-04-22T05:05:49Z,2024-04-27T11:00:42Z,MERGED,5196,False,100,Java
+https://github.com/JJConsulting/JJMasterData/pull/131,"bugfix: When downloading a file, <td> is also clicked causing a loading message be endless .",2023-06-07T12:18:16Z,2023-06-09T11:40:12Z,MERGED,164,False,10,C#
+https://github.com/InseeFrLab/images-datascience/pull/171,Cross compile for ARM and x86,2024-01-16T17:42:57Z,2024-01-17T09:49:26Z,MERGED,22,False,17,Shell
+https://github.com/IDinsight/aaq-core/pull/205,Google login,2024-05-13T19:52:33Z,2024-05-16T01:45:58Z,MERGED,19,False,9,Python
+https://github.com/GaloyMoney/blink-mobile/pull/2617,refactor: receive screen,2023-09-04T09:58:19Z,2023-09-05T19:23:14Z,MERGED,137,False,55,TypeScript
+https://github.com/GaloyMoney/blink-mobile/pull/2403,feat: use adaptive icons for android app,2023-06-26T19:34:38Z,2023-06-26T19:55:49Z,MERGED,137,False,55,TypeScript
+https://github.com/GaloyMoney/blink-mobile/pull/2361,feat: feedback flow after first payment,2023-06-16T19:28:51Z,2023-07-19T12:45:27Z,MERGED,137,False,55,TypeScript
+https://github.com/Ditectrev/Microsoft-Azure-AZ-900-Microsoft-Azure-Fundamentals-Practice-Tests-Exams-Questions-Answers/pull/17,Update README.md,2024-02-17T13:40:08Z,2024-02-17T13:56:34Z,MERGED,174,False,5,
+https://github.com/DIYgod/RSSHub/pull/12961,feat(route): add Smashing magazine,2023-08-09T14:19:03Z,2023-08-10T18:47:01Z,MERGED,30827,False,100,TypeScript
+https://github.com/DIYgod/RSSHub/pull/12113,feat(route): Update route OpenAI,2023-03-15T20:03:54Z,2023-03-16T09:39:08Z,MERGED,30827,False,100,TypeScript
+https://github.com/Codeinwp/otter-blocks/pull/1878,Add Pagination for Posts,2023-09-22T14:06:37Z,2023-11-02T06:12:55Z,MERGED,129,False,22,JavaScript
+https://github.com/Charcoal-SE/SmokeDetector/pull/10644,Vickel: Watch surah-al-waqiah\.com,2024-04-06T16:08:41Z,2024-04-06T16:32:51Z,MERGED,464,False,100,Python
+https://github.com/BitBoxSwiss/bitbox-wallet-app/pull/2415,build/os-x: fix build errors for M-based Apple machines,2023-12-07T15:52:56Z,2023-12-11T08:21:32Z,MERGED,245,False,43,Go
+https://github.com/BitBoxSwiss/bitbox-wallet-app/pull/2368,Android system auth,2023-11-22T10:53:15Z,2023-11-29T14:54:27Z,MERGED,245,False,43,Go
+https://github.com/Automattic/wp-calypso/pull/89083,Patterns: integrate Context and add second search field,2024-04-01T14:46:18Z,2024-04-02T12:11:44Z,MERGED,12380,False,100,TypeScript
+https://github.com/ArnoldSmith86/virtualtabletop/pull/1778,"Update library images for multiple games by ArnoldSmith86, RaphaelAlvez",2023-06-20T04:18:09Z,2023-07-04T20:08:39Z,MERGED,155,False,21,JavaScript
+https://github.com/Altinity/clickhouse-backup/pull/648,clickhouse-backup: Add support for sharded backup,2023-04-26T17:37:14Z,2023-08-03T07:24:50Z,MERGED,1191,False,85,Go
+https://github.com/2Abendsegler/GClh/pull/2376,Charset,2023-02-28T09:39:28Z,2023-02-28T19:49:13Z,MERGED,56,False,26,JavaScript
+https://github.com/0x2447196/raypeatarchive/pull/19,Newsletters,2024-05-15T10:58:51Z,2024-05-16T17:25:33Z,MERGED,18,False,5,Shell
+https://github.com/polywrap/evo.ninja/pull/629,fix: on mobile manually set input font-size to avoid needless zooming,2023-12-18T09:39:28Z,2023-12-18T09:39:28Z,MERGED,1040,FALSE,15,TypeScript
+https://github.com/polywrap/evo.ninja/pull/206,prevent script writer from writing recursive scripts,2023-09-25T09:39:28Z,2023-09-25T09:39:28Z,MERGED,1040,FALSE,15,TypeScript
+https://github.com/polywrap/evo.ninja/pull/167,Refactored core lib into 'agent-utils', 'evo-agent' and 'script-writer-agent' libs,2023-09-14T09:39:28Z,2023-09-16T09:39:28Z,MERGED,1040,FALSE,15,TypeScript
+https://github.com/polywrap/AutoTx/pull/68,Analyze prompt pre-step to find unsupported prompts or missing info,2024-22-03T10:58:51Z,2024-23-03T10:58:51Z,MERGED,80,FALSE,7,Python
+https://github.com/OpenAccess-AI-Collective/axolotl/pull/1504,Correctly handle splits for datasets.arrow_dataset.Dataset objects,2024-09-04T10:58:51Z,2024-09-04T10:58:51Z,MERGED,6621,FALSE,100,Python
