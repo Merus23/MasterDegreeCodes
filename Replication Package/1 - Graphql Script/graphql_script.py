@@ -8,6 +8,8 @@ from datetime import datetime
 import re
 
 
+
+
 def run_query(query): 
     request = requests.post('https://api.github.com/graphql', json={'query': query}, headers=headers)
     if request.status_code == 200:
@@ -139,7 +141,9 @@ def extract_repository_name(url):
 # GRAPHQL API v4
 #   using an access token   
 #################
-access_token = ''
+
+
+access_token = os.getenv('GITHUB_API_KEY')
 headers = {'Authorization': 'Bearer '+ access_token}
 
 min_stars = 10
