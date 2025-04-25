@@ -115,13 +115,12 @@ def extract_repository_name(url):
     else:
         return "Repositório não encontrado."
         
-    #https://docs.github.com/en/graphql/overview/explorer
+
+#https://docs.github.com/en/graphql/overview/explorer
 
 # GRAPHQL API v4
 #   using an access token   
 #################
-
-
 access_token = os.getenv('GITHUB_API_KEY')
 headers = {'Authorization': 'Bearer '+ access_token}
 
