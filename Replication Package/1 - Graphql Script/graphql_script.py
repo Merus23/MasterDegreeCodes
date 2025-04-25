@@ -76,7 +76,7 @@ def getReadabilityPullRequests():
                 read_contributors = Read_contributors(repo_name)  
                 contributors_count = read_contributors.getContributorsCount()
 
-                if stars >= min_stars and fork == False:                                                
+                if stars >= min_stars and fork == False and has_test_file == True:                                                
                     if contributors_count > min_contributors:
                         prs.append((pr_url, pr_title, pr_created_at, pr_merged_at, pr_state, stars, fork, contributors_count, language))                            
                 else:
