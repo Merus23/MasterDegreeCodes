@@ -17,39 +17,6 @@ def run_query(query):
     else:
         raise Exception("Query failed to run by returning code of {}. {}".format(request.status_code, query))       
 
-def query_composer(cursor=None):
-    cursor_part = f', after: "{cursor}"' if cursor else ""
-    query = f"""query {{
-                  search(query: "chat.openai.com/share is:pr is:merged",
-                    type: ISSUE,
-                    first: 100{cursor_part}) {{
-                        pageInfo {{
-                            endCursor
-                            hasNextPage
-                        }}
-                        issueCount
-                        edges {{
-                            node {{
-                                ... on PullRequest {{                                    
-                                    url
-                                    title
-                                    createdAt
-                                    mergedAt
-                                    state   
-                                    repository {{
-                                        stargazerCount
-                                        isFork
-                                        primaryLanguage {{
-                                            name
-                                        }}
-                                    }}
-                                }}
-                            }}
-                        }}
-                    }}
-                }}"""
-    return query
-
 class Read_contributors():
 
     def __init__(self, repo):
