@@ -6,6 +6,7 @@ from github import Github, RateLimitExceededException
 import csv, json, os.path, pandas as pd, requests, time
 from datetime import datetime
 import re
+from Queries.QueryBuilder import chatgptQuery, geminiQuery
 
 
 
@@ -52,7 +53,7 @@ def getReadabilityPullRequests():
         
         while has_next_page:
 
-            result = run_query(query_composer(cursor))
+            result = run_query(chatgptQuery())
             end_cursor = result["data"]["search"]["pageInfo"]["endCursor"]
             has_next_page = result["data"]["search"]["pageInfo"]["hasNextPage"]
 
