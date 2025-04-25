@@ -71,6 +71,18 @@ def getReadabilityPullRequests():
                 language = ""
                 if pr["node"]["repository"]["primaryLanguage"] != None:
                     language = pr["node"]["repository"]["primaryLanguage"]["name"]
+                
+                files = pr["node"]["files"]["edges"]
+                
+                has_test_file = False
+                for file in files:
+                    path = file["node"]["path"]
+                    if re.search(r'test', path, re.IGNORECASE):
+                        print("\nPATH:", path)
+                        has_test_file = True
+                        break  
+
+
 
                 repo_name = extract_repository_name(pr_url)
                 read_contributors = Read_contributors(repo_name)  
