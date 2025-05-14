@@ -83,8 +83,6 @@ def getReadabilityPullRequests():
                         has_test_file = True
                         break  
 
-
-
                 repo_name = extract_repository_name(pr_url)
                 read_contributors = Read_contributors(repo_name)  
                 contributors_count = read_contributors.getContributorsCount()
@@ -117,11 +115,7 @@ def extract_repository_name(url):
         return "Repositório não encontrado."
         
 
-#https://docs.github.com/en/graphql/overview/explorer
-
 # GRAPHQL API v4
-#   using an access token   
-#################
 access_token = os.getenv('GITHUB_API_KEY')
 headers = {'Authorization': 'Bearer '+ access_token}
 
