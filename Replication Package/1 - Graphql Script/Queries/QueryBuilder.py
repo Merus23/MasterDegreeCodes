@@ -1,8 +1,8 @@
 def chatgptQuery():
     query = f"""query {{
-                  search(query: "chat.openai.com/share is:pr is:merged",
+                  search(query: "chat.openai.com/share in:file,commits,body is:pr is:merged",
                     type: ISSUE,
-                    first: 25) {{ 
+                    first: 10) {{ 
                         pageInfo {{
                             endCursor
                             hasNextPage
@@ -40,7 +40,7 @@ def chatgptQuery():
 
 def geminiQuery():
     query = f"""query {{
-                  search(query: "g.co/gemini/share is:pr is:merged",
+                  search(query: "g.co/gemini/share in:file,commits,body is:pr is:merged",
                     type: ISSUE,
                     first: 100) {{
                         pageInfo {{
