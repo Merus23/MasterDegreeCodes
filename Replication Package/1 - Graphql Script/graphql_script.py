@@ -6,10 +6,7 @@ from github import Github, RateLimitExceededException
 import csv, json, os.path, pandas as pd, requests, time
 from datetime import datetime
 import re
-from Queries.QueryBuilder import chatgptQuery, geminiQuery
-
-
-
+from Queries.QueryBuilder import chatgptQuery, geminiQuery, searchLLMQuery, query_composer
 
 def run_query(query): 
     request = requests.post('https://api.github.com/graphql', json={'query': query}, headers=headers)
@@ -38,8 +35,9 @@ class Read_contributors():
             return len(dados_api)
         else:
             print(dados_api)
-            return None            
-  
+            return None           
+
+
 def getReadabilityPullRequests(): 
     
     filename = 'output/chatgpt - candidate samples.csv'
@@ -47,19 +45,24 @@ def getReadabilityPullRequests():
     cursor = None
     has_next_page = True    
 
+    page_cursor = None
+    has_more_files = True
+    
     prs = []
+
 
     try:                    
         
         while has_next_page:
 
-            result = run_query(chatgptQuery())
+            result = run_query(query_composer(cursor, page_cursor))
             end_cursor = result["data"]["search"]["pageInfo"]["endCursor"]
             has_next_page = result["data"]["search"]["pageInfo"]["hasNextPage"]
 
             issueCount = result["data"]["search"]["issueCount"]
         
             print(f"Occurrences: {issueCount}")
+            print(f"Processando página com cursor: {cursor}")
 
             for pr in result["data"]["search"]["edges"]:   
                 pr_url = pr["node"]["url"]
@@ -72,16 +75,46 @@ def getReadabilityPullRequests():
                 language = ""
                 if pr["node"]["repository"]["primaryLanguage"] != None:
                     language = pr["node"]["repository"]["primaryLanguage"]["name"]
-                
-                files = pr["node"]["files"]["edges"]
-                
+
+                # Pagination in files
+                has_more_files = pr["node"]["files"]["pageInfo"]["hasNextPage"]
+                page_cursor = None
                 has_test_file = False
-                for file in files:
-                    path = file["node"]["path"]
-                    if re.search(r'test', path, re.IGNORECASE):
-                        print("\nPATH:", path)
-                        has_test_file = True
-                        break  
+
+                while has_more_files:
+                    try:
+                        if page_cursor:
+                            pr_files_result = run_query(query_composer(cursor, page_cursor))
+                            # Verificar se há edges antes de acessar
+                            if pr_files_result["data"]["search"]["edges"]:
+                                pr_files = pr_files_result["data"]["search"]["edges"][0]["node"]["files"]
+                            else:
+                                print(f"Não há mais arquivos para processar no PR {pr_url}")
+                                break
+                        else:
+                            pr_files = pr["node"]["files"]
+                        
+                        if not pr_files["edges"]:
+                            print(f"Não há arquivos nesta página para o PR {pr_url}")
+                            break
+                            
+                        page_cursor = pr_files["pageInfo"]["endCursor"]
+                        has_more_files = pr_files["pageInfo"]["hasNextPage"]
+                        
+                        print(f"Processando arquivos do PR {pr_url} com cursor: {page_cursor}")
+                        
+                        for file_edge in pr_files["edges"]:
+                            file_path = file_edge["node"]["path"]
+                            if "test" in file_path.lower():
+                                has_test_file = True
+                                print(f"Arquivo de teste encontrado: {file_path}")
+                            else:
+                                print(f"Arquivo regular encontrado: {file_path}")
+                                
+                    except Exception as e:
+                        print(f"Erro ao processar arquivos do PR {pr_url}: {str(e)}")
+                        break
+
 
                 repo_name = extract_repository_name(pr_url)
                 read_contributors = Read_contributors(repo_name)  
@@ -106,6 +139,7 @@ def getReadabilityPullRequests():
         error_detail = result.get('errors', 'No additional error details available.')
         print(f"{e}. Additional details: {error_detail}")
 
+
 def extract_repository_name(url):
     match = re.search(r"github\.com/([^/]+/[^/]+)", url)
     if match:
@@ -119,11 +153,11 @@ def extract_repository_name(url):
 access_token = os.getenv('GITHUB_API_KEY')
 headers = {'Authorization': 'Bearer '+ access_token}
 
-min_stars = 10
+min_stars = 1
 min_contributors = 1
 
 getReadabilityPullRequests()
 
 
 
-                
+
