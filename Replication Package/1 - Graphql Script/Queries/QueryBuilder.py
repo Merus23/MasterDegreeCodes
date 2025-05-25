@@ -11,7 +11,7 @@ def query_composer(cursor=None, p_cursor=None):
     cursor_part = f', after: "{cursor}"' if cursor else ""
     page_cursor = f', after: "{p_cursor}"' if p_cursor else ""
     query = f"""query {{
-                  search(query: "(chat.openai.com/share OR g.co/gemini/share OR gemini.google.com/share OR chat.openai.com/g/) in:file,commits,body is:pr is:merged",
+                  search(query: "(huggingface.co/anthropic) in:file,commits,body is:pr is:merged",
                     type: ISSUE,
                     first: 10{cursor_part}) {{
                         pageInfo {{
