@@ -1,0 +1,20 @@
+PR URL,PR Title,PR createdAt,PR mergedAt,PR state,stars,fork,collaborators,language,test_file_count
+https://github.com/viets-software-club/truffle-ai-backend/pull/52,[BACK-69] Improving Categories and making them more specific,2023-06-16T07:12:36Z,2023-06-19T06:27:55Z,MERGED,2,False,9,TypeScript,3
+https://github.com/testsigmahq/testsigma-docs/pull/349,[DRAFT] Documentation on Runtime Variable Selection changed behaviour.,2024-01-23T08:26:53Z,2024-01-24T04:46:06Z,MERGED,8,False,23,JavaScript,1
+https://github.com/temporalio/temporal/pull/4558,Make all Go source file names snake case,2023-06-28T19:28:21Z,2023-07-03T18:23:56Z,MERGED,14099,False,100,Go,53
+https://github.com/sarcophagus-org/sarcophagus-v2-sdk/pull/23,Fix libp2p error in tests,2023-06-06T20:11:03Z,2023-06-09T19:32:21Z,MERGED,2,False,4,TypeScript,3
+https://github.com/monarch-initiative/oai-monarch-plugin/pull/39,"basic sim search implemented, gene and disease queries only",2023-06-23T16:25:01Z,2023-06-23T16:25:19Z,MERGED,13,False,4,Python,1
+https://github.com/detekt/detekt/pull/5937,Potential new rule: DoubleNegativeLambda,2023-03-24T23:18:18Z,2023-04-06T13:23:21Z,MERGED,6506,False,100,Kotlin,1
+https://github.com/UNLV-CS472-672/2024-S-GROUP7-LifeQuest/pull/91,Additional login page test,2024-04-15T08:17:16Z,2024-04-16T01:54:44Z,MERGED,4,False,9,JavaScript,1
+https://github.com/UNLV-CS472-672/2024-S-GROUP7-LifeQuest/pull/88,Added a bottom GUI and Quest Menu with some starting quest,2024-04-13T04:16:02Z,2024-04-15T19:30:11Z,MERGED,4,False,9,JavaScript,2
+https://github.com/UNLV-CS472-672/2024-S-GROUP7-LifeQuest/pull/64,Testing files for App.js and Home.js,2024-03-27T04:00:35Z,2024-03-27T05:22:43Z,MERGED,4,False,9,JavaScript,2
+https://github.com/UNLV-CS472-672/2024-S-GROUP7-LifeQuest/pull/134,Added two tests to SettingsPage.test.js,2024-04-23T18:25:38Z,2024-04-23T22:49:36Z,MERGED,4,False,9,JavaScript,1
+https://github.com/UNLV-CS472-672/2024-S-GROUP7-LifeQuest/pull/118,Added a registration page,2024-04-20T12:32:22Z,2024-04-21T00:29:41Z,MERGED,4,False,9,JavaScript,1
+https://github.com/UNLV-CS472-672/2024-S-GROUP7-LifeQuest/pull/113,More Coverage for LoginPage.test.js,2024-04-17T22:43:46Z,2024-04-17T23:20:50Z,MERGED,4,False,9,JavaScript,1
+https://github.com/UNLV-CS472-672/2024-S-GROUP3-Barbell/pull/225,153 frontend privacy policy screen,2024-04-20T05:34:39Z,2024-04-25T00:01:56Z,MERGED,4,False,11,TypeScript,2
+https://github.com/UNLV-CS472-672/2024-S-GROUP1-Roadwatch/pull/154,unit test for register page,2024-04-25T04:12:02Z,2024-04-25T06:33:52Z,MERGED,2,False,11,TypeScript,1
+https://github.com/UNLV-CS472-672/2024-S-GROUP1-Roadwatch/pull/116,Unit Testing for Marker Endpoints,2024-04-09T23:40:21Z,2024-04-16T18:03:25Z,MERGED,2,False,11,TypeScript,2
+https://github.com/SerenityOS/serenity/pull/22213,"AK: Print timestamp, process name, and pid on all platforms",2023-12-08T20:54:40Z,2023-12-12T17:11:24Z,MERGED,31798,False,100,C++,0
+https://github.com/MikaelJG/textract/pull/1,"feat: add keywords support, and more",2023-08-28T18:31:02Z,2023-08-28T19:00:15Z,MERGED,2,False,2,Python,2
+https://github.com/Maxime22/quiz/pull/10,Second try indexeddb tests + time spent,2023-12-04T22:54:00Z,2023-12-06T19:00:15Z,MERGED,1,False,2,JavaScript,1
+https://github.com/MATRIX-feather/LLin/pull/1,添加翻译,2023-10-13T15:02:58Z,2023-10-15T03:38:13Z,MERGED,93,False,2,C#,1

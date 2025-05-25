@@ -1,0 +1,37 @@
+PR URL,PR Title,PR createdAt,PR mergedAt,PR state,stars,fork,collaborators,language
+https://github.com/vllm-project/vllm/pull/8337,[misc] CUDA Time Layerwise Profiler,2024-09-10T15:19:37Z,2024-10-17T14:36:09Z,MERGED,47848,False,100,Python
+https://github.com/vllm-project/vllm/pull/10820,[Misc] Split up pooling tasks,2024-12-02T04:46:24Z,2024-12-11T09:28:01Z,MERGED,47848,False,100,Python
+https://github.com/vllm-project/llm-compressor/pull/1142,Update: SparseGPT recipes,2025-02-12T18:33:57Z,2025-02-12T23:43:47Z,MERGED,1377,False,67,Python
+https://github.com/sgl-project/sglang/pull/4760,Add unit test on page_size > 1 and mla and  integration test for Flash Attention 3,2025-03-25T10:42:01Z,2025-04-08T06:20:51Z,MERGED,14561,False,100,Python
+https://github.com/sgl-project/sglang/pull/1508,Add support for tie_word_embeddings when loading weights + support for SmolLM,2024-09-25T00:19:08Z,2024-09-25T04:50:20Z,MERGED,14561,False,100,Python
+https://github.com/rhymes-ai/Aria/pull/55,Refactor: precompute the image token embedding placeholders in `AriaProcessor` for smplified forward pass and static kv cache support,2024-11-10T04:28:06Z,2024-11-11T03:35:56Z,MERGED,1037,False,10,Jupyter Notebook
+https://github.com/openvinotoolkit/openvino/pull/24379,Use Slice operation directly on CPU and update RoPE patterns,2024-05-06T09:41:00Z,2024-05-30T11:28:02Z,MERGED,8325,False,100,C++
+https://github.com/neuralmagic/sparseml/pull/2286,[GPTQ UX] Add scheme arg with QuantizationScheme support,2024-05-15T13:31:29Z,2024-05-24T14:23:41Z,MERGED,2136,False,48,Python
+https://github.com/neuralmagic/sparseml/pull/2273,GPTQ UX config groups support,2024-05-09T21:10:20Z,2024-05-20T19:07:44Z,MERGED,2136,False,48,Python
+https://github.com/neuralmagic/deepsparse/pull/1218,[TransformersPipeline] Add in and refactor TransformersPipeline args,2023-08-29T20:45:01Z,2023-09-06T19:10:45Z,MERGED,3149,False,41,Python
+https://github.com/neuralmagic/compressed-tensors/pull/86,[Quant KV Cache] Implementation,2024-06-17T09:46:49Z,2024-06-27T14:39:37Z,MERGED,113,False,18,Python
+https://github.com/mosaicml/llm-foundry/pull/1516,Add HuggingFaceCheckpointer option for only registering final checkpoint,2024-09-10T19:54:03Z,2024-09-12T23:52:07Z,MERGED,4246,False,100,Python
+https://github.com/modelscope/modelscope/pull/391,Compatibility for huggingface transformers,2023-07-18T11:57:37Z,2023-07-24T12:53:28Z,MERGED,7910,False,100,Python
+https://github.com/modal-labs/modal-client/pull/760,Send globals along with `run_function` step definition,2023-08-19T20:52:38Z,2023-08-21T00:07:23Z,MERGED,340,False,57,Python
+https://github.com/ludwig-ai/ludwig/pull/3948,Add support for RSLoRA and DoRA,2024-02-29T09:02:27Z,2024-03-01T00:10:48Z,MERGED,11460,False,100,Python
+https://github.com/linkedin/Liger-Kernel/pull/42,Added more generic monkey patch function,2024-08-17T08:09:44Z,2024-08-19T18:47:55Z,MERGED,5044,False,82,Python
+https://github.com/linkedin/Liger-Kernel/pull/379,add xpu device support for `rms_norm`,2024-11-14T04:23:55Z,2024-11-19T05:47:11Z,MERGED,5044,False,82,Python
+https://github.com/linkedin/Liger-Kernel/pull/199,Support for patching post-model initialization,2024-09-03T20:21:51Z,2024-09-13T17:39:46Z,MERGED,5044,False,82,Python
+https://github.com/intel/ipex-llm/pull/8713,[LLM] Unify Transformers and Native API,2023-08-10T01:35:49Z,2023-08-11T11:45:47Z,MERGED,7909,False,100,Python
+https://github.com/instructlab/instructlab/pull/2247,Rewrite Community Training,2024-09-10T17:41:14Z,2024-09-27T01:59:13Z,MERGED,1282,False,100,Python
+https://github.com/huggingface/trl/pull/2455,🔨 Support for tools for data utils,2024-12-10T08:20:33Z,2024-12-12T16:11:50Z,MERGED,13855,False,100,Python
+https://github.com/huggingface/trl/pull/2044,make cuda-only tests device-agnostic ,2024-09-09T14:40:38Z,2024-09-13T12:23:12Z,MERGED,13855,False,100,Python
+https://github.com/huggingface/transformers/pull/37854,Support for version spec in requires & arbitrary mismatching depths across folders,2025-04-29T09:43:30Z,2025-05-09T13:26:27Z,MERGED,144653,False,100,Python
+https://github.com/huggingface/transformers/pull/36887,Fix warning message for PEFT models in text-generation pipeline #36783,2025-03-21T15:01:45Z,2025-04-09T14:36:53Z,MERGED,144653,False,100,Python
+https://github.com/huggingface/transformers/pull/33718,Generate: `can_generate()` recursive check,2024-09-26T10:53:17Z,2024-09-26T17:11:14Z,MERGED,144653,False,100,Python
+https://github.com/huggingface/transformers/pull/33303,Fix the initialization of the cache when we have multi gpu,2024-09-04T15:31:31Z,2024-09-13T13:06:08Z,MERGED,144653,False,100,Python
+https://github.com/huggingface/transformers/pull/32613,Fix attn mask ignore logic in training-time trace,2024-08-11T23:30:52Z,2024-10-04T17:00:45Z,MERGED,144653,False,100,Python
+https://github.com/huggingface/transformers/pull/28405,[`core`/ FEAT] Add the possibility to push custom tags using `PreTrainedModel` itself,2024-01-09T08:04:09Z,2024-01-15T13:48:08Z,MERGED,144653,False,100,Python
+https://github.com/huggingface/transformers/pull/28043,[`FA-2`] Fix fa-2 issue when passing `config` to `from_pretrained`,2023-12-14T15:02:39Z,2023-12-15T10:08:27Z,MERGED,144653,False,100,Python
+https://github.com/huggingface/transformers/pull/26914,[`FA-2`] Add fa2 support for `from_config`,2023-10-18T21:34:51Z,2023-11-20T15:45:56Z,MERGED,144653,False,100,Python
+https://github.com/huggingface/transformers/pull/25598,[`core` ] Integrate Flash attention 2 in most used models,2023-08-18T17:09:47Z,2023-09-22T15:42:11Z,MERGED,144653,False,100,Python
+https://github.com/huggingface/peft/pull/2384,FIX: Avoid caching in X-LoRA generate,2025-02-18T13:33:10Z,2025-02-18T16:29:40Z,MERGED,18485,False,100,Python
+https://github.com/huggingface/diffusers/pull/11296,[Hi Dream] follow-up,2025-04-12T01:24:34Z,2025-04-17T11:17:44Z,MERGED,29065,False,100,Python
+https://github.com/axolotl-ai-cloud/axolotl/pull/1365,Add Glaive conversation format support,2024-03-06T03:00:40Z,2024-03-11T00:50:26Z,MERGED,9402,False,100,Python
+https://github.com/autonomi-ai/nos/pull/469,Support model streaming responses with new `Stream` gRPC service,2023-11-17T23:03:01Z,2023-11-22T19:10:17Z,MERGED,141,False,4,Python
+https://github.com/Xilinx/brevitas/pull/1270,Fix (graph/hadamard): `.view` can fail with functional QuantSDPA,2025-04-17T11:26:28Z,2025-04-22T14:50:59Z,MERGED,1318,False,26,Python

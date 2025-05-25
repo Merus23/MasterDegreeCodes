@@ -1,0 +1,41 @@
+PR URL,PR Title,PR createdAt,PR mergedAt,PR state,stars,fork,collaborators,language
+https://github.com/vllm-project/vllm/pull/9213,[Bugfix] Fix Weight Loading Multiple GPU Test - Large Models,2024-10-10T02:52:49Z,2024-10-10T06:15:41Z,MERGED,47848,False,100,Python
+https://github.com/vllm-project/vllm/pull/8588,[Misc] Support FP8 MoE for compressed-tensors,2024-09-19T00:59:24Z,2024-09-25T16:43:36Z,MERGED,47848,False,100,Python
+https://github.com/vllm-project/vllm/pull/13236,[Quant][Perf] Use moe_wna16 kernel by default for MoEs with many experts,2025-02-13T20:03:55Z,2025-02-14T20:53:42Z,MERGED,47848,False,100,Python
+https://github.com/vllm-project/vllm/pull/12955,[v0][structured output] Support reasoning output,2025-02-08T09:30:49Z,2025-03-02T19:49:42Z,MERGED,47848,False,100,Python
+https://github.com/vllm-project/vllm/pull/12662,[AMD][ROCm] Enable DeepSeek model on ROCm,2025-02-02T17:09:13Z,2025-02-04T08:24:11Z,MERGED,47848,False,100,Python
+https://github.com/vllm-project/llm-compressor/pull/157,DeepSeek: Fix Hessian Estimation,2024-09-10T14:36:42Z,2024-09-11T14:04:39Z,MERGED,1377,False,67,Python
+https://github.com/unslothai/unsloth/pull/2255,Registry refactor,2025-04-01T01:34:25Z,2025-04-02T06:16:27Z,MERGED,39166,False,47,Python
+https://github.com/sourcegraph/cody/pull/6237,add completions support for autoedits,2024-12-02T16:29:27Z,2024-12-12T12:26:00Z,MERGED,3626,False,100,TypeScript
+https://github.com/sourcegraph/cody/pull/5559,Autocomplete: add unit tests for server-side models config,2024-09-12T03:00:24Z,2024-09-16T02:16:20Z,MERGED,3626,False,100,TypeScript
+https://github.com/sourcegraph/cody/pull/5148,Hitesh/1.30.1 patch release,2024-08-08T17:52:23Z,2024-08-08T18:59:45Z,MERGED,3626,False,100,TypeScript
+https://github.com/sourcegraph/cody/pull/5079,Shipment of deepseek-v2-lite-base on autocomplete for PLG users,2024-08-01T11:32:14Z,2024-08-08T16:38:40Z,MERGED,3626,False,100,TypeScript
+https://github.com/sgl-project/sglang/pull/5370,[perf] experimental enhance fp8 per-tensor quant,2025-04-14T09:21:08Z,2025-04-14T19:35:43Z,MERGED,14561,False,100,Python
+https://github.com/sgl-project/sglang/pull/4390,Improve DP attention,2025-03-13T14:03:41Z,2025-03-13T15:23:56Z,MERGED,14561,False,100,Python
+https://github.com/sgl-project/sglang/pull/3047,support w8a8 fp8 kernel with CUTLASS,2025-01-22T08:39:42Z,2025-01-26T07:46:51Z,MERGED,14561,False,100,Python
+https://github.com/sgl-project/sglang/pull/2780,Fix nightly accuracy tests,2025-01-08T04:02:21Z,2025-01-08T05:02:37Z,MERGED,14561,False,100,Python
+https://github.com/sgl-project/sglang/pull/2203,MoE Expert Parallel Impl,2024-11-26T12:58:14Z,2024-12-05T18:44:02Z,MERGED,14561,False,100,Python
+https://github.com/sgl-project/sglang/pull/1970,Support DP MLA,2024-11-09T05:46:08Z,2024-11-16T09:01:44Z,MERGED,14561,False,100,Python
+https://github.com/sgl-project/sglang/pull/1494,minor: add mla fp8 test,2024-09-23T12:39:52Z,2024-09-23T12:40:18Z,MERGED,14561,False,100,Python
+https://github.com/sgl-project/sglang/pull/1401,Support cuda graph in the triton attention backend,2024-09-12T06:21:02Z,2024-09-12T07:36:55Z,MERGED,14561,False,100,Python
+https://github.com/ollama/ollama/pull/5207,add insert support to generate endpoint,2024-06-22T00:25:01Z,2024-07-16T21:37:32Z,MERGED,141328,False,100,Go
+https://github.com/olasunkanmi-SE/codebuddy/pull/178,Add DeepSeek Support to CodeBuddy,2025-03-24T06:33:11Z,2025-04-01T05:14:38Z,MERGED,40,False,8,TypeScript
+https://github.com/mosaicml/composer/pull/2969,Make CodeEval respect device_eval_batch_size,2024-02-07T04:23:18Z,2024-02-15T16:27:35Z,MERGED,5357,False,100,Python
+https://github.com/microsoft/autogen/pull/2304,Re-query speaker name when multiple speaker names returned during Group Chat speaker selection,2024-04-06T05:14:41Z,2024-04-30T04:21:24Z,MERGED,44834,False,100,Python
+https://github.com/lenaxia/home-ops-prod/pull/1262,feat(container)!: Update image quay.io/go-skynet/local-ai to v2,2024-07-31T20:03:34Z,2024-07-31T20:34:37Z,MERGED,15,False,5,Jupyter Notebook
+https://github.com/kmitofficial/CodeGenie-G335-PS25/pull/2,Dev varun,2025-04-02T09:30:47Z,2025-04-03T09:18:01Z,MERGED,3,False,3,TypeScript
+https://github.com/kevinthedang/discord-ollama/pull/126,Switch Model Command,2024-10-13T04:08:14Z,2024-10-13T05:03:32Z,MERGED,151,False,2,TypeScript
+https://github.com/jackmpcollins/magentic/pull/426,feat: support for passing extra_headers to LitellmChatModel,2025-02-11T00:52:22Z,2025-02-24T10:08:58Z,MERGED,2302,False,10,Python
+https://github.com/intel/ipex-llm/pull/11524,[ADD] add 5 new models for igpu-perf,2024-07-08T03:04:57Z,2024-07-08T03:12:15Z,MERGED,7909,False,100,Python
+https://github.com/intel/ipex-llm/pull/11505,Add new models to benchmark,2024-07-04T04:26:54Z,2024-07-08T02:35:55Z,MERGED,7909,False,100,Python
+https://github.com/intel/intel-extension-for-transformers/pull/1251,[NeuralChat] Support deepseek-coder models in NeuralChat,2024-02-03T15:06:37Z,2024-02-04T00:52:39Z,MERGED,2170,False,100,Python
+https://github.com/instill-ai/component/pull/237,feat: add Fireworks AI component,2024-07-24T00:11:09Z,2024-08-11T08:21:45Z,MERGED,5,False,15,Go
+https://github.com/google/minja/pull/33,Revamp template capabilities + inject tools in system message when not supported by template,2025-01-28T23:42:14Z,2025-01-29T20:25:45Z,MERGED,140,False,8,C++
+https://github.com/ggml-org/llama.cpp/pull/7530,Tokenizer BPE fixes,2024-05-25T02:45:33Z,2024-06-18T16:40:53Z,MERGED,80698,False,100,C++
+https://github.com/ggml-org/llama.cpp/pull/7193,fix : lookup word in vocab before doing BPE merges,2024-05-10T08:04:27Z,2024-05-11T08:12:06Z,MERGED,80698,False,100,C++
+https://github.com/ggml-org/llama.cpp/pull/6397,"Add OpenChat, Alpaca, Vicuna chat templates",2024-03-30T09:41:40Z,2024-04-03T15:24:31Z,MERGED,80698,False,100,C++
+https://github.com/epfl-dlab/transformers-CFG/pull/73,Add support for DeepSeek,2024-07-24T04:32:57Z,2024-07-24T04:33:55Z,MERGED,117,False,11,Python
+https://github.com/ScrapeGraphAI/Scrapegraph-ai/pull/967,Pre/beta - Unit Tests,2025-04-15T10:38:09Z,2025-04-15T11:02:54Z,MERGED,19716,False,100,Python
+https://github.com/ScrapeGraphAI/Scrapegraph-ai/pull/965,Pre/beta - Unit Tests,2025-04-14T08:19:38Z,2025-04-15T10:12:35Z,MERGED,19716,False,100,Python
+https://github.com/InternLM/lmdeploy/pull/1310,add chat template for deepseek coder model,2024-03-19T12:37:38Z,2024-03-20T07:02:16Z,MERGED,6391,False,100,Python
+https://github.com/AntonOsika/gpt-engineer/pull/1191,Usability improvements,2024-07-23T19:58:16Z,2024-08-08T17:27:39Z,MERGED,54176,False,100,Python

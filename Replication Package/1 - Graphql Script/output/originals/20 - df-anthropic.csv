@@ -1,0 +1,7 @@
+PR URL,PR Title,PR createdAt,PR mergedAt,PR state,stars,fork,collaborators,language
+https://github.com/mlcommons/croissant/pull/636,git lfs download fileObject and read gzipped files,2024-04-17T13:11:20Z,2024-04-19T11:18:42Z,MERGED,619,False,28,Jupyter Notebook
+https://github.com/iterative/datachain/pull/199,add example script smoke tests,2024-07-30T05:44:51Z,2024-08-08T23:03:31Z,MERGED,2559,False,27,Python
+https://github.com/huggingface/trl/pull/1613,Update HH dataset on helpful only subset,2024-05-02T15:07:26Z,2024-05-02T16:12:12Z,MERGED,13857,False,100,Python
+https://github.com/griptape-ai/griptape/pull/1919,deps: bump the production-dependencies group across 1 directory with 26 updates,2025-04-28T18:34:53Z,2025-04-29T15:36:44Z,MERGED,2298,False,37,Python
+https://github.com/griptape-ai/griptape/pull/1293,Bump the dependencies group across 1 directory with 18 updates,2024-10-28T18:23:32Z,2024-10-28T22:29:56Z,MERGED,2298,False,37,Python
+https://github.com/AI-Hypercomputer/maxtext/pull/947,DPO,2024-10-05T00:35:57Z,2024-12-14T00:43:29Z,MERGED,1728,False,100,Python

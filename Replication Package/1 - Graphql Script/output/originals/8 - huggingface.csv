@@ -1,0 +1,132 @@
+PR URL,PR Title,PR createdAt,PR mergedAt,PR state,stars,fork,collaborators,language
+https://github.com/zhiqwang/yolort/pull/252,Fix `register_nms` in `YOLOGraphSurgeon`,2021-12-24T17:42:14Z,2021-12-24T18:40:15Z,MERGED,729,False,33,Python
+https://github.com/scaleapi/llm-engine/pull/366,count prompt tokens,2023-11-07T08:58:56Z,2023-11-15T22:40:18Z,MERGED,799,False,28,Python
+https://github.com/rdnfn/feedback-forensics/pull/26,Staging,2025-04-10T10:41:08Z,2025-04-14T19:35:27Z,MERGED,19,False,2,Python
+https://github.com/open-mmlab/Amphion/pull/249,Add PicoAudio Model,2024-07-19T07:51:41Z,2025-01-02T03:58:11Z,MERGED,9075,False,31,Python
+https://github.com/ollama/ollama/pull/6279,feat: Introduce K/V Context Quantisation (vRAM improvements),2024-08-09T07:22:10Z,2024-12-03T23:57:19Z,MERGED,141320,False,100,Go
+https://github.com/neo4j-contrib/neo4j-apoc-procedures/pull/4192,Fixes #4145: Add support for huggingface models,2024-09-18T08:44:10Z,2024-10-07T08:42:25Z,MERGED,1786,False,100,Java
+https://github.com/mozilla-ai/speech-to-text-alignment/pull/4,Add GH action to sync to HF space,2025-04-17T13:26:57Z,2025-04-17T13:29:14Z,MERGED,2,False,2,
+https://github.com/mozilla-ai/any-agent/pull/262,"Clean up evaluation code ""ground truth"" criteria",2025-05-14T20:06:09Z,2025-05-19T10:18:48Z,MERGED,418,False,8,Python
+https://github.com/mlflow/mlflow/pull/12799,Add Huggingfaces Evaluate BLEU metrics,2024-07-26T10:08:46Z,2024-10-31T06:29:39Z,MERGED,20605,False,100,Python
+https://github.com/llm-proxy/llm-proxy/pull/211,Proficiency routing,2024-03-29T01:52:16Z,2024-03-31T23:28:55Z,MERGED,23,False,11,Python
+https://github.com/langchain-ai/langchain/pull/16568,community: Add Baichuan Text Embedding Model and Baichuan Inc introduction,2024-01-25T09:49:50Z,2024-01-26T20:57:26Z,MERGED,107945,False,100,Jupyter Notebook
+https://github.com/langchain-ai/langchain/pull/14689,python-lint,2023-12-13T23:38:54Z,2024-01-02T00:25:04Z,MERGED,107945,False,100,Jupyter Notebook
+https://github.com/k2-fsa/sherpa-onnx/pull/598,Refactor WebAssembly build script.,2024-02-21T08:47:41Z,2024-02-21T08:51:15Z,MERGED,6054,False,100,C++
+https://github.com/k2-fsa/sherpa-onnx/pull/565,Add fine-tuned whisper model on aishell,2024-01-31T09:23:23Z,2024-01-31T09:23:42Z,MERGED,6054,False,100,C++
+https://github.com/k2-fsa/sherpa-onnx/pull/2136,Support Giga AM transducer V2,2025-04-20T02:14:02Z,2025-04-20T02:15:20Z,MERGED,6054,False,100,C++
+https://github.com/k2-fsa/sherpa-onnx/pull/2093,Add Javascript (WebAssembly) API for Dolphin CTC models,2025-04-03T07:01:21Z,2025-04-03T07:02:06Z,MERGED,6054,False,100,C++
+https://github.com/k2-fsa/sherpa-onnx/pull/1942,Add Kokoro v1.1-zh,2025-02-28T07:44:58Z,2025-02-28T07:47:59Z,MERGED,6054,False,100,C++
+https://github.com/k2-fsa/sherpa-onnx/pull/1867,Add C++ and Python API for FireRedASR AED models,2025-02-16T14:45:02Z,2025-02-16T14:45:25Z,MERGED,6054,False,100,C++
+https://github.com/k2-fsa/sherpa-onnx/pull/1713,Export kokoro to sherpa-onnx,2025-01-15T08:46:43Z,2025-01-15T08:49:10Z,MERGED,6054,False,100,C++
+https://github.com/k2-fsa/sherpa-onnx/pull/1467,Add GigaAM NeMo transducer model for Russian ASR,2024-10-25T07:17:34Z,2024-10-25T07:20:14Z,MERGED,6054,False,100,C++
+https://github.com/k2-fsa/sherpa-onnx/pull/1381,Support Parakeet models from NeMo,2024-09-27T09:10:11Z,2024-09-27T09:12:00Z,MERGED,6054,False,100,C++
+https://github.com/k2-fsa/sherpa-onnx/pull/1203,Add ReazonSpeech Japanese pre-trained model,2024-08-02T02:19:42Z,2024-08-02T02:21:24Z,MERGED,6054,False,100,C++
+https://github.com/jupyter/nbviewer/pull/1033,Add provider for huggingface.co: Very basic `uri_rewrites`,2022-12-26T18:49:01Z,2023-01-02T23:49:43Z,MERGED,2252,False,97,Python
+https://github.com/janosh/matbench-discovery/pull/207,New `metrics/diatomics` modules with energy + force metrics for diatomic curve analysis,2025-02-16T00:38:09Z,2025-02-16T13:01:45Z,MERGED,155,False,18,Python
+https://github.com/huggingface/transformers/pull/36710,Gemma3 processor typo,2025-03-14T05:43:10Z,2025-03-14T12:07:56Z,MERGED,144653,False,100,Python
+https://github.com/huggingface/transformers/pull/14896,Large audio chunking for the existing ASR pipeline,2021-12-23T12:39:15Z,2022-01-03T15:54:17Z,MERGED,144654,False,100,Python
+https://github.com/huggingface/transformers.js/pull/1300,Add support for qwen3,2025-04-28T22:26:41Z,2025-04-29T17:04:47Z,MERGED,13646,False,59,JavaScript
+https://github.com/huggingface/transformers.js-examples/pull/32,Add Janus pro WebGPU demo,2025-01-27T23:37:35Z,2025-01-27T23:37:45Z,MERGED,1466,False,3,JavaScript
+https://github.com/huggingface/transformers.js-examples/pull/30,Create SmolVLM WebGPU demo,2025-01-23T14:10:32Z,2025-01-23T14:12:44Z,MERGED,1466,False,3,JavaScript
+https://github.com/huggingface/transformers.js-examples/pull/29,Create DeepSeek-R1 WebGPU demo,2025-01-20T18:25:52Z,2025-01-21T20:56:33Z,MERGED,1466,False,3,JavaScript
+https://github.com/huggingface/transformers.js-examples/pull/27,Reasoning demo,2025-01-10T00:15:12Z,2025-01-10T11:01:39Z,MERGED,1466,False,3,JavaScript
+https://github.com/huggingface/text-generation-inference/pull/2591,feat: Add automatic nightly benchmarks,2024-09-30T15:59:04Z,2024-11-21T17:11:43Z,MERGED,10146,False,100,Python
+https://github.com/huggingface/simulate/pull/26,Hub support + better texture and colors support,2022-05-20T21:52:34Z,2022-05-24T22:02:56Z,MERGED,190,False,13,Python
+https://github.com/huggingface/open-r1/pull/349,Enable chat template and system prompt to be configured during training,2025-02-17T15:12:50Z,2025-02-18T13:46:43Z,MERGED,24511,False,41,Python
+https://github.com/huggingface/lerobot/pull/576,[vizualizer] for LeRobodDataset V2,2024-12-13T16:10:34Z,2024-12-20T15:26:24Z,MERGED,13644,False,84,Python
+https://github.com/huggingface/huggingface_hub/pull/2707,Fix test_list_spaces_linked,2024-12-11T12:45:59Z,2024-12-11T12:46:08Z,MERGED,2610,False,100,Python
+https://github.com/huggingface/huggingface_hub/pull/2684,Add helpers to handle OAuth in a FastAPI app,2024-11-29T16:13:03Z,2025-05-13T09:59:12Z,MERGED,2610,False,100,Python
+https://github.com/huggingface/huggingface_hub/pull/2295,Fix test: rename to open-llm-leaderboard + some cleaning,2024-05-30T08:27:35Z,2024-05-30T09:12:35Z,MERGED,2610,False,100,Python
+https://github.com/huggingface/huggingface_hub/pull/1904,Fix error handling on HTTP 401,2023-12-14T07:08:04Z,2023-12-15T08:42:24Z,MERGED,2610,False,100,Python
+https://github.com/huggingface/huggingface_hub/pull/1874,Support source in EvalResult for model cards,2023-11-29T13:21:16Z,2023-11-30T09:13:52Z,MERGED,2610,False,100,Python
+https://github.com/huggingface/huggingface_hub/pull/1779,Implement API for Inference Endpoints,2023-10-25T14:59:52Z,2023-10-30T09:21:54Z,MERGED,2610,False,100,Python
+https://github.com/huggingface/huggingface_hub/pull/1506,Encourage to overwrite CommitScheduler.push_to_hub,2023-06-12T16:35:42Z,2023-06-14T10:47:15Z,MERGED,2610,False,100,Python
+https://github.com/huggingface/huggingface_hub/pull/143,Context manager,2021-06-25T10:33:36Z,2021-06-28T12:42:26Z,MERGED,2610,False,100,Python
+https://github.com/huggingface/huggingface_hub/pull/1254,Add method to list liked repos,2022-12-08T16:54:27Z,2022-12-14T15:33:50Z,MERGED,2610,False,100,Python
+https://github.com/huggingface/huggingface.js/pull/169,🥅 Catch SSE error,2023-04-30T16:36:55Z,2023-04-30T16:49:49Z,MERGED,1746,False,100,TypeScript
+https://github.com/huggingface/huggingface.js/pull/1058,@huggingface/blob and @huggingface/dduf packages,2024-12-03T10:36:57Z,2024-12-03T13:34:19Z,MERGED,1744,False,100,TypeScript
+https://github.com/huggingface/diffusers/pull/5093,Move to slow tests to nightly,2023-09-19T02:33:29Z,2023-09-19T10:34:26Z,MERGED,29065,False,100,Python
+https://github.com/huggingface/diffusers/pull/1858,[Unclip] Make sure text_embeddings & image_embeddings can directly be passed to enable interpolation tasks.,2022-12-29T13:40:47Z,2022-12-30T11:18:19Z,MERGED,29065,False,100,Python
+https://github.com/huggingface/datasets/pull/6519,Support push_to_hub canonical datasets,2023-12-20T15:16:45Z,2023-12-21T14:40:57Z,MERGED,20160,False,100,Python
+https://github.com/huggingface/datasets/pull/6511,Implement get dataset default config name,2023-12-19T11:26:19Z,2023-12-21T14:42:40Z,MERGED,20160,False,100,Python
+https://github.com/huggingface/dataset-viewer/pull/1821,feat: 🎸 add HIGH priority level,2023-09-19T12:07:16Z,2023-09-19T12:29:47Z,MERGED,753,False,36,Python
+https://github.com/hon9kon9ize/yuesub-api/pull/4,Refactor and set opencc as default corrector,2024-10-29T22:52:55Z,2024-10-30T22:13:22Z,MERGED,15,False,4,Python
+https://github.com/hexgrad/kokoro/pull/92,Kokoro.js v1.2.0: Streaming support,2025-02-14T16:25:14Z,2025-02-15T19:06:34Z,MERGED,2912,False,17,JavaScript
+https://github.com/hendrycks/apps/pull/16,Fix memory leak and add reliabilty guard,2022-08-17T23:16:43Z,2022-08-18T02:59:55Z,MERGED,462,False,5,Python
+https://github.com/h2oai/h2ogpt/pull/1486,Google auth,2024-03-18T19:46:58Z,2024-03-20T00:51:14Z,MERGED,11815,False,75,Python
+https://github.com/gradio-app/gradio/pull/8929,Add line numbering and collapse/expand logic to gr.JSON,2024-07-29T14:45:52Z,2024-07-30T22:58:03Z,MERGED,38184,False,100,Python
+https://github.com/gradio-app/gradio/pull/8846,add space header,2024-07-19T13:46:57Z,2024-07-22T19:47:14Z,MERGED,38184,False,100,Python
+https://github.com/gradio-app/gradio/pull/8197,Add support for passing keyword args to `data` in JS client,2024-05-02T13:08:01Z,2024-05-10T17:46:28Z,MERGED,38184,False,100,Python
+https://github.com/gradio-app/gradio/pull/7794,"Adds trigger_mode to gr.on. Use it to set trigger_model=""always_last"" for live interfaces.",2024-03-22T15:46:28Z,2024-03-22T23:00:52Z,MERGED,38185,False,100,Python
+https://github.com/gradio-app/gradio/pull/7557,Allow mounted Gradio apps to work with external / arbitrary authentication providers,2024-02-28T00:52:41Z,2024-03-05T20:41:39Z,MERGED,38185,False,100,Python
+https://github.com/gradio-app/gradio/pull/7503,Tighten CORS rules,2024-02-21T18:27:32Z,2024-02-22T19:54:51Z,MERGED,38185,False,100,Python
+https://github.com/gradio-app/gradio/pull/6846,"Add `show_api` parameter to events, and fix `gr.load()`. Also makes some minor improvements to the ""view API"" page when running on Spaces",2023-12-20T00:31:44Z,2023-12-22T19:59:02Z,MERGED,38185,False,100,Python
+https://github.com/gradio-app/gradio/pull/6602,Fix: Gradio Client work with private Spaces,2023-11-29T05:09:16Z,2023-11-30T07:21:59Z,MERGED,38185,False,100,Python
+https://github.com/gradio-app/gradio/pull/6307,Provide status updates on file uploads,2023-11-06T19:25:52Z,2023-11-08T00:02:32Z,MERGED,38185,False,100,Python
+https://github.com/gradio-app/gradio/pull/5690,Fix incorrect behavior of `gr.load()` with `gr.Examples`,2023-09-26T07:41:05Z,2023-09-26T19:20:34Z,MERGED,38185,False,100,Python
+https://github.com/gradio-app/gradio/pull/5668,Fully resolve generated filepaths when running on Hugging Face Spaces with multiple replicas,2023-09-24T01:14:53Z,2023-09-27T19:58:31Z,MERGED,38185,False,100,Python
+https://github.com/gradio-app/gradio/pull/5390,Fix dataset demo,2023-08-31T14:37:29Z,2023-09-05T15:47:10Z,MERGED,38185,False,100,Python
+https://github.com/gradio-app/gradio/pull/4651,Share button,2023-06-22T23:41:08Z,2023-07-06T00:50:17Z,MERGED,38185,False,100,Python
+https://github.com/gradio-app/gradio/pull/4576,Fix gallery style,2023-06-20T15:55:11Z,2023-06-20T21:57:33Z,MERGED,38185,False,100,Python
+https://github.com/gradio-app/gradio/pull/3196,Add timeouts to queue messages,2023-02-14T22:11:04Z,2023-02-21T21:44:18Z,MERGED,38185,False,100,Python
+https://github.com/gradio-app/gradio/pull/3124,Turn Submit Button into Cancel Button for Interfaces with generators,2023-02-03T16:52:42Z,2023-02-06T19:30:21Z,MERGED,38185,False,100,Python
+https://github.com/gradio-app/gradio/pull/3091,Fix image rotation on iOS,2023-01-30T23:20:20Z,2023-01-31T18:18:24Z,MERGED,38185,False,100,Python
+https://github.com/gradio-app/gradio/pull/3049,Fix auth on spaces,2023-01-24T14:41:05Z,2023-01-30T16:11:33Z,MERGED,38185,False,100,Python
+https://github.com/gradio-app/gradio/pull/2779,Fix preprocessing for audio input pipelines in external.py,2022-12-08T15:57:18Z,2022-12-09T14:12:20Z,MERGED,38185,False,100,Python
+https://github.com/gradio-app/gradio/pull/2640,Fix loading interface with examples,2022-11-11T20:51:49Z,2022-11-15T16:20:59Z,MERGED,38185,False,100,Python
+https://github.com/gradio-app/gradio/pull/2294,Respect Upstream Queue when loading interfaces/blocks from Spaces,2022-09-19T22:54:29Z,2022-09-21T17:18:40Z,MERGED,38185,False,100,Python
+https://github.com/gradio-app/gradio/pull/2144,Sketching + Inpainting Capabilities to Gradio,2022-08-31T17:57:35Z,2022-09-23T11:14:57Z,MERGED,38185,False,100,Python
+https://github.com/gradio-app/gradio/pull/10124,Fix lazy caching,2024-12-04T20:30:07Z,2024-12-04T22:00:28Z,MERGED,38184,False,100,Python
+https://github.com/google/minja/pull/54,Test (~180) more models,2025-02-09T17:31:32Z,2025-02-09T17:57:08Z,MERGED,140,False,8,C++
+https://github.com/ggml-org/llama.cpp/pull/7866,`json`: refine whitespace rules to avoid runaways,2024-06-11T01:00:19Z,2024-06-11T01:22:57Z,MERGED,80698,False,100,C++
+https://github.com/facebookresearch/stopes/pull/68,Port the sentence splitters enhancements to the public Stopes,2024-09-25T16:06:42Z,2024-12-09T10:28:59Z,MERGED,276,False,11,Python
+https://github.com/developmentseed/chabud2023/pull/9,:technologist: Implement test_step to generate submission CSV file,2023-05-22T05:12:30Z,2023-05-23T03:14:11Z,MERGED,6,False,2,Python
+https://github.com/detoxio-ai/hacktor/pull/16,#15 Integrating LLM Rules Prompt cagegories with multi turn prompts,2024-12-29T05:46:25Z,2025-01-08T07:19:26Z,MERGED,26,False,4,Python
+https://github.com/databricks/lilac/pull/966,Add Jina V2 embeddings,2023-12-14T17:24:15Z,2023-12-14T19:33:06Z,MERGED,1035,False,10,Python
+https://github.com/databricks/lilac/pull/907,Fix keyword search to work with apostrophe `'`,2023-11-30T18:35:37Z,2023-11-30T18:55:03Z,MERGED,1035,False,10,Python
+https://github.com/databricks/lilac/pull/885,Pass explicit schema during jsonl -> parquet conversion,2023-11-25T17:51:50Z,2023-11-25T19:50:53Z,MERGED,1035,False,10,Python
+https://github.com/databricks/lilac/pull/878,Add support for `map` field in the schema and UI,2023-11-22T14:02:27Z,2023-11-22T17:24:30Z,MERGED,1035,False,10,Python
+https://github.com/databricks/lilac/pull/858,Add jsonl intermediate caching to signals. Introduce a central spot for this cache abstraction.,2023-11-16T03:19:25Z,2023-11-16T19:00:49Z,MERGED,1035,False,10,Python
+https://github.com/databricks/lilac/pull/775,Improve the Export Dataset modal dialog,2023-10-20T17:04:16Z,2023-10-20T21:47:54Z,MERGED,1035,False,10,Python
+https://github.com/databricks/lilac/pull/764,Improve dataset load onboarding flow.,2023-10-12T20:35:10Z,2023-10-12T21:49:53Z,MERGED,1035,False,10,Python
+https://github.com/databricks/lilac/pull/748,Make labels toggle-able ,2023-10-05T21:17:38Z,2023-10-06T14:08:39Z,MERGED,1035,False,10,Python
+https://github.com/databricks/lilac/pull/740,Add a github source and a LlamaIndexDocsSource source.,2023-10-04T18:46:34Z,2023-10-04T19:57:20Z,MERGED,1035,False,10,Python
+https://github.com/databricks/lilac/pull/731,Upgrade duckdb to 0.9,2023-10-01T12:56:05Z,2023-10-01T13:46:00Z,MERGED,1035,False,10,Python
+https://github.com/databricks/lilac/pull/685,Migrate to Pydantic V2,2023-09-18T12:59:05Z,2023-09-19T00:40:22Z,MERGED,1035,False,10,Python
+https://github.com/databricks/lilac/pull/624,Add ability to make concepts public.,2023-08-31T02:06:16Z,2023-08-31T16:26:54Z,MERGED,1035,False,10,Python
+https://github.com/databricks/lilac/pull/569,Update questions concept with more examples. Fix concept UI bugs.,2023-08-16T16:57:04Z,2023-08-16T18:50:09Z,MERGED,1035,False,10,Python
+https://github.com/databricks/lilac/pull/546,Add load dataset docs.,2023-08-14T20:55:16Z,2023-08-14T21:38:02Z,MERGED,1035,False,10,Python
+https://github.com/databricks/lilac/pull/534,Move lilac concepts into the pip package.,2023-08-11T19:52:31Z,2023-08-12T00:28:53Z,MERGED,1035,False,10,Python
+https://github.com/databricks/lilac/pull/518,"Keep the config.yml file in sync when updating settings, running signals and embeddings.",2023-08-08T18:49:18Z,2023-08-09T14:44:13Z,MERGED,1035,False,10,Python
+https://github.com/databricks/lilac/pull/496,Various UI fixes after the embedding change,2023-08-03T12:34:16Z,2023-08-03T14:13:43Z,MERGED,1035,False,10,Python
+https://github.com/databricks/lilac/pull/484,Add batching support to concepts.,2023-08-01T03:30:05Z,2023-08-02T13:40:06Z,MERGED,1035,False,10,Python
+https://github.com/databricks/lilac/pull/466,Add authorization to concepts,2023-07-22T04:43:21Z,2023-07-25T15:06:31Z,MERGED,1035,False,10,Python
+https://github.com/databricks/lilac/pull/456,Add download dialog,2023-07-19T18:41:26Z,2023-07-19T23:03:01Z,MERGED,1035,False,10,Python
+https://github.com/databricks/lilac/pull/453,Add signal for language detection,2023-07-18T18:23:38Z,2023-07-18T19:46:40Z,MERGED,1035,False,10,Python
+https://github.com/databricks/lilac/pull/452,Add an environment flag for LILAC_AUTH_ENABLED and turn off features.,2023-07-18T17:57:53Z,2023-07-19T12:49:59Z,MERGED,1035,False,10,Python
+https://github.com/databricks/lilac/pull/450,Add persistent file-based dataset settings.,2023-07-18T13:32:36Z,2023-07-18T14:01:58Z,MERGED,1035,False,10,Python
+https://github.com/databricks/lilac/pull/1160,Fix some issues with exporting.,2024-02-02T16:27:55Z,2024-02-02T18:58:46Z,MERGED,1035,False,10,Python
+https://github.com/databricks/lilac/pull/1141,Improve clusters and several bug fixes,2024-01-29T16:30:40Z,2024-01-29T17:01:47Z,MERGED,1035,False,10,Python
+https://github.com/databricks/lilac/pull/1126,Cache dataset.pivot() and make cluster search box more visible,2024-01-24T21:46:39Z,2024-01-25T15:43:39Z,MERGED,1035,False,10,Python
+https://github.com/databricks/lilac/pull/1121,Fix a few bugs related to concepts and clustering,2024-01-24T16:50:37Z,2024-01-24T17:10:42Z,MERGED,1035,False,10,Python
+https://github.com/databricks/lilac/pull/1120,Add more demo datasets.,2024-01-24T16:02:42Z,2024-01-24T20:56:23Z,MERGED,1035,False,10,Python
+https://github.com/databricks/lilac/pull/1102,Move use_garden outside of a Signal.,2024-01-19T23:08:38Z,2024-01-20T01:24:34Z,MERGED,1035,False,10,Python
+https://github.com/databricks/lilac/pull/1011,Add the ability to delete and restore rows from the UI.,2024-01-03T16:55:33Z,2024-01-03T19:15:15Z,MERGED,1035,False,10,Python
+https://github.com/axolotl-ai-cloud/axolotl/pull/982,fix mistral prompt assembly,2023-12-20T01:38:22Z,2023-12-21T16:00:55Z,MERGED,9402,False,100,Python
+https://github.com/argilla-io/distilabel/pull/670,Add `ArenaHard` benchmark and `ArenaHardResults` step,2024-05-23T11:27:18Z,2024-06-12T10:34:17Z,MERGED,2707,False,36,Python
+https://github.com/argilla-io/argilla-server/pull/23,feat: add different deterministic sorting of records per user,2024-02-09T17:13:48Z,2024-02-26T08:54:16Z,MERGED,9,False,7,Python
+https://github.com/Trusted-AI/adversarial-robustness-toolbox/pull/1781,Update kornia requirement from ~=0.6.5 to ~=0.6.6,2022-07-18T07:03:42Z,2022-07-18T14:12:22Z,MERGED,5271,False,100,Python
+https://github.com/TEAMuP-dev/HARP/pull/213,Gradio/HTTP - Labels - MidiPlayback - Improved Error Handling - UI fixes,2024-08-20T08:06:15Z,2024-10-25T09:50:28Z,MERGED,60,False,17,C++
+https://github.com/SEA-AI/seametrics/pull/53,Cv 260 refactor uf metrics code,2025-02-06T18:27:41Z,2025-02-19T15:19:21Z,MERGED,1,False,11,Jupyter Notebook
+https://github.com/PrunaAI/pruna/pull/44,feat: Add Hugging Face integration to save and load models,2025-04-01T14:42:37Z,2025-04-22T17:06:58Z,MERGED,692,False,11,Python
+https://github.com/Marker-Inc-Korea/AutoRAG/pull/267,Add BERT score generation metric,2024-04-04T13:54:02Z,2024-04-05T09:06:18Z,MERGED,3966,False,21,Python
+https://github.com/Lightning-Universe/lightning-flash/pull/1676,"build(deps): update transformers requirement from <=4.30.2,>=4.13.0 to >=4.13.0,<=4.32.0 in /requirements",2023-08-28T11:31:50Z,2023-09-01T17:46:10Z,MERGED,1742,False,87,Python
+https://github.com/Lightning-AI/torchmetrics/pull/2871,build(deps): update huggingface-hub requirement from <0.27 to <0.28 in /requirements,2024-12-16T23:49:23Z,2024-12-17T10:26:07Z,MERGED,2272,False,100,Python
+https://github.com/Lightning-AI/torchmetrics/pull/2472,build(deps): update huggingface-hub requirement from <0.22 to <0.23 in /requirements,2024-03-25T23:42:59Z,2024-03-28T21:12:35Z,MERGED,2272,False,100,Python
+https://github.com/Lightning-AI/torchmetrics/pull/2176,build(deps): update huggingface-hub requirement from <0.18 to <0.19 in /requirements,2023-10-16T23:59:30Z,2023-10-17T20:23:03Z,MERGED,2272,False,100,Python
+https://github.com/JohnSnowLabs/spark-nlp/pull/13859,"SPARKNLP 852 - Introducing ""E5 Embeddings"" for sentence embeddings like e5-large-v2 model",2023-06-20T14:40:15Z,2023-07-01T13:17:10Z,MERGED,3979,False,100,Scala
+https://github.com/JohnSnowLabs/spark-nlp/pull/13849,"SPARKNLP 836 - Introducing ""Instructor Embeddings"" for sentence embeddings like Instructor-XL model",2023-06-08T09:22:46Z,2023-07-01T13:07:33Z,MERGED,3979,False,100,Scala
+https://github.com/Imageomics/pybioclip/pull/3,Add bioclip command line tool,2024-03-29T19:08:45Z,2024-04-01T16:51:00Z,MERGED,31,False,4,Python
+https://github.com/Chr728/Compass/pull/467,Gradio snoring ai backend + Gradio deployment of the existing models #396 #431 #443,2024-03-04T02:36:46Z,2024-03-07T07:18:36Z,MERGED,4,False,10,Jupyter Notebook
+https://github.com/All-Hands-AI/OpenHands/pull/2685,[Agent] (Potentially) improve Editing using `diff`,2024-06-29T01:35:10Z,2024-07-02T02:50:15Z,MERGED,54945,False,100,Python
+https://github.com/AlignmentResearch/tuned-lens/pull/55,Refactors the `TunedLens` and `LogitLens` classes to now use the `Unembed` class,2023-04-03T18:09:32Z,2023-04-26T03:12:37Z,MERGED,490,False,5,Python

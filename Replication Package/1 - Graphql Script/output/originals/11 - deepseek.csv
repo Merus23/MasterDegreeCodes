@@ -1,0 +1,145 @@
+PR URL,PR Title,PR createdAt,PR mergedAt,PR state,stars,fork,collaborators,language
+https://github.com/yomorun/yomo/pull/1049,feat(llm-bridge): add Azure AI Foundry provider,2025-04-17T06:05:42Z,2025-04-21T07:15:04Z,MERGED,1759,False,20,Go
+https://github.com/yiitap/yiitap/pull/25,"feat: integrate with AI (OpenAI, DeepSeek)",2025-03-21T04:09:04Z,2025-03-21T04:11:16Z,MERGED,14,False,3,Vue
+https://github.com/xtekky/gpt4free/pull/2805,Add new providers and enhance existing provider configurations,2025-03-16T10:28:43Z,2025-03-20T16:36:00Z,MERGED,64283,False,100,Python
+https://github.com/xataio/agent/pull/63,Init LiteLLM support,2025-04-02T15:33:22Z,2025-04-16T15:50:44Z,MERGED,761,False,8,TypeScript
+https://github.com/vyofgod/think_project/pull/1,I've refactored and enhanced the Think Project functionality.,2025-05-21T13:07:02Z,2025-05-21T13:07:13Z,MERGED,2,False,2,Python
+https://github.com/vllm-project/vllm/pull/17955,[FEAT] [ROCm] [V1]: Add AITER biased group topk for DeepSeekV3,2025-05-11T04:32:56Z,2025-05-14T05:03:47Z,MERGED,47840,False,100,Python
+https://github.com/vllm-project/vllm/pull/17523,[FEAT][ROCm]: Support AITER MLA on V1 Engine,2025-05-01T08:33:41Z,2025-05-09T02:42:05Z,MERGED,47840,False,100,Python
+https://github.com/vllm-project/vllm/pull/16577,[V1] Structured Outputs + Thinking compatibility,2025-04-14T07:33:48Z,2025-05-14T22:45:24Z,MERGED,47840,False,100,Python
+https://github.com/vllm-project/vllm/pull/14968,[FEAT] [ROCm]: Add AITER Block-Scaled GEMM Feature,2025-03-17T15:33:00Z,2025-05-14T02:08:21Z,MERGED,47840,False,100,Python
+https://github.com/vllm-project/vllm/pull/14967,[FEAT][ROCm] Integrate Fused MoE Kernels from AITER,2025-03-17T15:15:42Z,2025-03-26T08:30:30Z,MERGED,47842,False,100,Python
+https://github.com/vllm-project/vllm/pull/14253,"[BugFix] MLA + V1, illegal memory access and accuracy issues",2025-03-05T02:58:11Z,2025-03-06T01:10:13Z,MERGED,47841,False,100,Python
+https://github.com/vllm-project/vllm/pull/13932,Add option to use DeepGemm contiguous grouped gemm kernel for fused MoE operations.,2025-02-26T23:10:53Z,2025-04-01T16:07:43Z,MERGED,47841,False,100,Python
+https://github.com/vllm-project/vllm/pull/13747,[Kernel] FlashMLA integration,2025-02-24T07:10:54Z,2025-02-27T02:35:09Z,MERGED,47842,False,100,Python
+https://github.com/vllm-project/vllm/pull/12955,[v0][structured output] Support reasoning output,2025-02-08T09:30:49Z,2025-03-02T19:49:42Z,MERGED,47842,False,100,Python
+https://github.com/vllm-project/vllm/pull/12755,[Model][Speculative Decoding] DeepSeek MTP spec decode,2025-02-04T23:58:11Z,2025-02-19T09:06:23Z,MERGED,47842,False,100,Python
+https://github.com/vllm-project/vllm/pull/12639,[Attention] MLA with chunked prefill,2025-02-01T04:43:16Z,2025-02-21T23:30:12Z,MERGED,47841,False,100,Python
+https://github.com/vllm-project/vllm/pull/12473,[Frontend] Support reasoning content for deepseek r1,2025-01-27T16:30:49Z,2025-01-29T03:38:08Z,MERGED,47842,False,100,Python
+https://github.com/vllm-project/vllm-ascend/pull/773,[Bugfix] Fix output tensor shape in vanilla_chunked_prefill and update import paths for model_loader,2025-05-07T07:44:39Z,2025-05-08T06:19:26Z,MERGED,666,False,44,Python
+https://github.com/vllm-project/vllm-ascend/pull/636,[MTP] follow custom deepseek modeling changes to support graph mode,2025-04-23T10:45:44Z,2025-04-28T13:18:53Z,MERGED,666,False,44,Python
+https://github.com/vllm-project/vllm-ascend/pull/631,[CI] Add deepseek-v2-lite test,2025-04-23T09:07:43Z,2025-05-12T06:59:17Z,MERGED,666,False,44,Python
+https://github.com/vllm-project/vllm-ascend/pull/598,[Perf] Deepseekv3 performance optimization for eager mode,2025-04-21T12:25:01Z,2025-04-29T09:12:03Z,MERGED,666,False,44,Python
+https://github.com/vllm-project/vllm-ascend/pull/593,[BUGFIX] main-sd-bugfix && [UT] add mtp UT,2025-04-21T07:20:29Z,2025-04-21T11:25:51Z,MERGED,666,False,44,Python
+https://github.com/vllm-project/vllm-ascend/pull/429,port deepseekv2 and mtp to main branch,2025-03-29T01:57:43Z,2025-04-19T09:38:19Z,MERGED,666,False,44,Python
+https://github.com/vincent-herlemont/native_model/pull/88,chore(deps): update hustcer/setup-nu action to v3.18,2025-03-15T01:49:03Z,2025-03-15T01:49:11Z,MERGED,22,False,7,Rust
+https://github.com/vincent-herlemont/native_db/pull/352,chore(deps): update hustcer/setup-nu action to v3.19,2025-03-15T01:36:12Z,2025-04-04T07:09:08Z,MERGED,583,False,16,Rust
+https://github.com/vespa-engine/vespa/pull/33327,Support other finish reasons for OpenAiClient (deepseek),2025-02-14T12:25:47Z,2025-02-18T13:52:46Z,MERGED,6180,False,100,Java
+https://github.com/vercel/ai/pull/6069,Version Packages (canary),2025-04-30T10:14:07Z,2025-05-02T09:32:39Z,MERGED,14325,False,100,TypeScript
+https://github.com/vercel/ai/pull/5898,Version Packages (canary),2025-04-22T15:57:00Z,2025-04-23T10:25:33Z,MERGED,14325,False,100,TypeScript
+https://github.com/vercel/ai/pull/5659,Version Packages,2025-04-10T10:47:00Z,2025-04-10T16:38:06Z,MERGED,14325,False,100,TypeScript
+https://github.com/vercel/ai/pull/5625,Version Packages (canary),2025-04-09T10:35:07Z,2025-04-09T11:59:09Z,MERGED,14325,False,100,TypeScript
+https://github.com/vercel/ai/pull/5601,Version Packages,2025-04-08T10:45:09Z,2025-04-08T10:45:31Z,MERGED,14325,False,100,TypeScript
+https://github.com/vercel/ai/pull/5591,Version Packages (canary),2025-04-08T05:40:51Z,2025-04-09T09:44:56Z,MERGED,14325,False,100,TypeScript
+https://github.com/vercel/ai/pull/5590,Version Packages,2025-04-08T05:34:55Z,2025-04-08T06:57:26Z,MERGED,14325,False,100,TypeScript
+https://github.com/vercel/ai/pull/5533,Version Packages (canary),2025-04-03T12:07:57Z,2025-04-03T12:51:58Z,MERGED,14325,False,100,TypeScript
+https://github.com/vercel/ai/pull/5466,Version Packages,2025-03-31T12:45:48Z,2025-03-31T16:27:31Z,MERGED,14325,False,100,TypeScript
+https://github.com/vercel/ai/pull/5354,Version Packages,2025-03-24T16:49:34Z,2025-03-24T16:54:05Z,MERGED,14325,False,100,TypeScript
+https://github.com/vercel/ai/pull/4939,fix (ai/core): add `startWithReasoning` option to `extractReasoningMiddleware`,2025-02-19T13:29:30Z,2025-02-19T16:12:00Z,MERGED,14325,False,100,TypeScript
+https://github.com/truenas/apps/pull/2103,chore(deps): update updates-patch-minor,2025-04-18T12:14:59Z,2025-04-18T13:08:26Z,MERGED,192,False,56,Python
+https://github.com/tenstorrent/tt-torch/pull/529,Promote 26 models in CI that are passing e2e-compile (8) and full-model-execute (18),2025-03-30T22:50:06Z,2025-03-31T01:36:15Z,MERGED,16,False,22,Python
+https://github.com/tenstorrent/tt-torch/pull/501,Add Deepseek [#228],2025-03-25T18:51:35Z,2025-03-26T19:00:29Z,MERGED,16,False,22,Python
+https://github.com/tensorzero/tensorzero/pull/1436,"Remove all 'feature = ""e2e_tests""' cfgs from e2e test files",2025-03-20T14:06:32Z,2025-03-20T15:07:42Z,MERGED,4256,False,45,Rust
+https://github.com/tensorzero/tensorzero/pull/1414,Include raw_response for more streaming errors,2025-03-19T17:08:20Z,2025-03-20T18:55:26Z,MERGED,4256,False,45,Rust
+https://github.com/superglue-ai/superglue/pull/80,Vercel ai sdk integration,2025-03-06T11:11:21Z,2025-03-10T22:18:33Z,MERGED,1769,False,12,TypeScript
+https://github.com/sgl-project/sglang/pull/6499,Apply constraint grammar to EAGLE,2025-05-21T10:30:25Z,2025-05-22T00:18:41Z,MERGED,14559,False,100,Python
+https://github.com/sgl-project/sglang/pull/6283,Enable unit tests for AMD CI.,2025-05-14T06:17:54Z,2025-05-14T19:55:36Z,MERGED,14559,False,100,Python
+https://github.com/sgl-project/sglang/pull/5922,[PD] Add support for different TP sizes per DP rank,2025-04-30T16:20:32Z,2025-05-12T20:55:42Z,MERGED,14559,False,100,Python
+https://github.com/sgl-project/sglang/pull/5694,[2/2] Add python wrapper for CUTLASS FP8 Blockscale MoE Kernel. ,2025-04-24T01:15:44Z,2025-05-16T20:14:07Z,MERGED,14559,False,100,Python
+https://github.com/sgl-project/sglang/pull/5691,Add 8-GPU Test for Deepseek-V3 ,2025-04-23T23:31:57Z,2025-04-27T19:46:12Z,MERGED,14559,False,100,Python
+https://github.com/sgl-project/sglang/pull/5655,Add DeepEP to CI PR Test,2025-04-23T03:03:05Z,2025-05-07T00:36:04Z,MERGED,14559,False,100,Python
+https://github.com/sgl-project/sglang/pull/5578,Remove extra copy in deepseek forward absorb,2025-04-20T15:26:34Z,2025-04-22T02:33:21Z,MERGED,14559,False,100,Python
+https://github.com/sgl-project/sglang/pull/5552,[Fix]: support deepseek-vl2-tiny model,2025-04-19T13:15:13Z,2025-04-26T09:52:54Z,MERGED,14559,False,100,Python
+https://github.com/sgl-project/sglang/pull/5440,Sgl kernel fused_moe_gate support n_shared_experts,2025-04-16T01:20:04Z,2025-04-18T06:05:16Z,MERGED,14559,False,100,Python
+https://github.com/sgl-project/sglang/pull/5432,[perf] introduce deep gemm group_gemm_masked as bmm,2025-04-15T18:39:04Z,2025-04-20T07:38:27Z,MERGED,14559,False,100,Python
+https://github.com/sgl-project/sglang/pull/5370,[perf] experimental enhance fp8 per-tensor quant,2025-04-14T09:21:08Z,2025-04-14T19:35:43Z,MERGED,14559,False,100,Python
+https://github.com/sgl-project/sglang/pull/5360,feat: update experiment_runner,2025-04-13T22:35:58Z,2025-04-13T22:37:05Z,MERGED,14560,False,100,Python
+https://github.com/sgl-project/sglang/pull/5113,Support MHA with chunked prefix cache for DeepSeek chunked prefill,2025-04-07T05:57:55Z,2025-04-16T05:01:23Z,MERGED,14559,False,100,Python
+https://github.com/sgl-project/sglang/pull/4631,[ROCm] Enable MTP (NextN) on AMD GPU,2025-03-20T14:43:47Z,2025-03-24T05:58:05Z,MERGED,14559,False,100,Python
+https://github.com/sgl-project/sglang/pull/4521,Reduce computation and communication in DP attention,2025-03-17T20:21:45Z,2025-03-18T20:41:37Z,MERGED,14559,False,100,Python
+https://github.com/sgl-project/sglang/pull/4470,"Revert ""feat: Add FlashMLA submodule (#4449)""",2025-03-16T08:29:55Z,2025-03-16T08:30:05Z,MERGED,14560,False,100,Python
+https://github.com/sgl-project/sglang/pull/4435,Add endpoints to dump selected expert ids,2025-03-14T19:28:22Z,2025-03-25T04:34:19Z,MERGED,14559,False,100,Python
+https://github.com/sgl-project/sglang/pull/4390,Improve DP attention,2025-03-13T14:03:41Z,2025-03-13T15:23:56Z,MERGED,14559,False,100,Python
+https://github.com/sgl-project/sglang/pull/4218,Support nextn for flashinfer mla attention backend,2025-03-09T02:50:57Z,2025-03-09T08:01:54Z,MERGED,14559,False,100,Python
+https://github.com/sgl-project/sglang/pull/4199,linear support deepgemm,2025-03-08T07:36:02Z,2025-03-11T07:38:37Z,MERGED,14559,False,100,Python
+https://github.com/sgl-project/sglang/pull/4086,[XPU][CPU] Enable the native path of DeepSeek,2025-03-05T07:48:15Z,2025-03-13T05:26:29Z,MERGED,14559,False,100,Python
+https://github.com/sgl-project/sglang/pull/4009,Hierarchical Caching supports MLA,2025-03-03T04:34:14Z,2025-03-14T03:42:14Z,MERGED,14560,False,100,Python
+https://github.com/sgl-project/sglang/pull/3967,[Feature]Support ragged prefill in flashinfer mla backend,2025-02-28T18:34:19Z,2025-03-01T02:13:57Z,MERGED,14559,False,100,Python
+https://github.com/sgl-project/sglang/pull/3888,[Feature] DeepSeek V3/R1 INT8 Quantization (channel-wise) ,2025-02-26T10:54:39Z,2025-03-07T04:54:52Z,MERGED,14559,False,100,Python
+https://github.com/sgl-project/sglang/pull/3730,Feature DeepSeek V3/R1 INT8 Quantization (block-wise),2025-02-20T10:48:04Z,2025-02-24T13:43:36Z,MERGED,14560,False,100,Python
+https://github.com/sgl-project/sglang/pull/3629,[Feature] Apply Cublas Grouped Gemm kernel,2025-02-17T08:50:26Z,2025-02-18T07:18:31Z,MERGED,14560,False,100,Python
+https://github.com/sgl-project/sglang/pull/3602,Expert Parallelism (EP) Support for DeepSeek V3/R1,2025-02-16T06:25:15Z,2025-02-26T10:29:38Z,MERGED,14559,False,100,Python
+https://github.com/sgl-project/sglang/pull/3203,model: Support Janus-pro,2025-01-29T04:28:55Z,2025-03-12T18:02:11Z,MERGED,14560,False,100,Python
+https://github.com/rsrini7/ai-travel-agent/pull/4,feat: Add Together.AI provider and models to Streamlit sidebar,2025-05-22T05:45:32Z,2025-05-22T05:46:05Z,MERGED,1,False,2,Python
+https://github.com/potpie-ai/potpie/pull/236,Deepseek R1 integration for Agent Interactions ,2025-01-30T08:41:14Z,2025-01-30T09:15:49Z,MERGED,4582,False,28,Python
+https://github.com/osl-incubator/rago/pull/49,feat(generation): add backend for DeepSeek's generation class,2025-03-02T06:31:47Z,2025-03-06T00:17:22Z,MERGED,11,False,6,Python
+https://github.com/opsre/WatchAlert/pull/146,Add AI integration,2025-03-03T04:25:13Z,2025-03-04T01:30:37Z,MERGED,638,False,13,Go
+https://github.com/openvinotoolkit/openvino_tokenizers/pull/456,Merge RegexSplit Steps,2025-03-26T14:48:19Z,2025-03-27T15:12:36Z,MERGED,34,False,24,Python
+https://github.com/openvinotoolkit/openvino_tokenizers/pull/411,"Fix Skips Detection For CharsMap, Special Tokens Detection",2025-02-07T10:18:29Z,2025-02-08T14:04:39Z,MERGED,34,False,24,Python
+https://github.com/onnx/turnkeyml/pull/298,Release lemonade 6.1.0,2025-03-24T20:51:15Z,2025-03-28T23:23:25Z,MERGED,190,False,10,Python
+https://github.com/microsoft/onnxruntime-extensions/pull/901,Initial Chat Template Implementation,2025-03-01T02:30:05Z,2025-03-15T19:06:17Z,MERGED,388,False,54,C++
+https://github.com/lobehub/lobe-chat/pull/7443,💄 style: update 360 AI & Taichu & AI21 model list,2025-04-16T13:37:30Z,2025-04-17T15:00:59Z,MERGED,60993,False,100,TypeScript
+https://github.com/langchain-ai/langchain/pull/30240,partner: ChatDeepSeek on openrouter not returning reasoning,2025-03-12T05:21:41Z,2025-03-21T16:35:38Z,MERGED,107946,False,100,Jupyter Notebook
+https://github.com/langchain-ai/langchain-aws/pull/408,Prevent sending thinking blocks with no signature with ChatBedrockConverse,2025-03-16T01:38:05Z,2025-03-18T00:31:23Z,MERGED,163,False,56,Python
+https://github.com/langchain-ai/langchain-aws/pull/407,Add DeepSeek-R1 'no_tools' streaming support for ChatBedrockConverse,2025-03-16T00:38:32Z,2025-03-17T19:10:18Z,MERGED,163,False,56,Python
+https://github.com/kris-hansen/comanda/pull/44,Model and api enhancements,2025-03-27T20:51:05Z,2025-03-27T20:57:07Z,MERGED,155,False,3,Go
+https://github.com/jupyterlab/jupyter-ai/pull/1264,"Allow embedding model fields, fix coupled model fields, add custom OpenAI provider",2025-02-27T07:17:11Z,2025-03-20T17:43:54Z,MERGED,3605,False,54,Python
+https://github.com/jbloomAus/SAELens/pull/412,Added qresearch SAE for distilled R1 LLaMa,2025-01-30T01:52:22Z,2025-01-30T22:21:14Z,MERGED,776,False,53,Python
+https://github.com/huggingface/transformers/pull/36695,prune LM Head for USD,2025-03-13T11:18:19Z,2025-04-08T15:44:10Z,MERGED,144654,False,100,Python
+https://github.com/huggingface/lighteval/pull/548,Add extended task for LiveCodeBench codegeneration,2025-02-10T11:11:37Z,2025-02-18T09:54:25Z,MERGED,1548,False,75,Python
+https://github.com/google/minja/pull/33,Revamp template capabilities + inject tools in system message when not supported by template,2025-01-28T23:42:14Z,2025-01-29T20:25:45Z,MERGED,140,False,8,C++
+https://github.com/ggml-org/llama.cpp/pull/9639,"Tool call support (generic + native for Llama, Functionary, Hermes, Mistral, Firefunction, DeepSeek) w/ lazy grammars",2024-09-25T15:37:26Z,2025-01-30T19:13:59Z,MERGED,80700,False,100,C++
+https://github.com/eugenp/tutorials/pull/18325,codebase/building-an-ai-chatbot-using-deepseek-models-with-spring-ai [BAEL-9195],2025-02-20T18:28:22Z,2025-03-02T15:17:38Z,MERGED,37150,False,100,Java
+https://github.com/elizaOS/eliza/pull/3663,chore:(refactor) - plugin-local-ai-final,2025-02-25T09:13:45Z,2025-02-25T12:33:25Z,MERGED,15876,False,100,TypeScript
+https://github.com/edenai/edenai-apis/pull/348,SD2 1334 add deepseek with deepseek api,2025-03-31T13:09:40Z,2025-04-02T10:07:51Z,MERGED,448,False,38,Python
+https://github.com/dfinke/psaisuite/pull/7,FEATURE - Add Custom SystemRole Support ,2025-03-11T09:46:51Z,2025-03-15T15:17:46Z,MERGED,32,False,2,PowerShell
+https://github.com/danny-avila/LibreChat/pull/6374,🔗 feat: Agent Chain (Mixture-of-Agents),2025-03-17T20:36:10Z,2025-03-17T20:43:45Z,MERGED,25781,False,100,TypeScript
+https://github.com/danielmiessler/fabric/pull/1427,Refactor OpenAI-compatible AI providers and add `--listvendors` flag,2025-04-20T16:24:10Z,2025-04-21T13:20:33Z,MERGED,31171,False,100,Go
+https://github.com/continuedev/continue/pull/4192,Added FIX for azure content filtering problem,2025-02-16T19:24:16Z,2025-02-17T17:16:40Z,MERGED,26365,False,100,TypeScript
+https://github.com/cloudflare/workerd/pull/3443,Update Workers AI Types,2025-01-30T20:28:28Z,2025-02-03T01:21:11Z,MERGED,6727,False,100,C++
+https://github.com/bountybench/bountybench/pull/623,Add DeepSeek models on together,2025-03-25T02:46:35Z,2025-03-25T20:21:05Z,MERGED,3,False,32,Jupyter Notebook
+https://github.com/ben-cuff/openai-wrapper-app/pull/7,Dev into main,2025-02-17T03:25:57Z,2025-02-17T03:26:40Z,MERGED,1,False,2,TypeScript
+https://github.com/ballerina-platform/module-ballerinax-ai.agent/pull/116,Bump minor version,2025-04-28T09:08:59Z,2025-04-28T09:14:40Z,MERGED,108,False,20,Ballerina
+https://github.com/aws-samples/swift-chat/pull/21,feat: optimize user experience,2025-03-23T11:49:43Z,2025-04-06T13:23:16Z,MERGED,436,False,3,TypeScript
+https://github.com/apache/apisix/pull/12196,feat: add lago plugin,2025-05-07T11:29:47Z,2025-05-21T07:16:58Z,MERGED,15142,False,100,Lua
+https://github.com/alibaba/spring-ai-alibaba/pull/411,feat: add deepseek reasoning content support and adjust some code,2025-02-20T15:01:18Z,2025-02-21T12:35:03Z,MERGED,3510,False,100,Java
+https://github.com/aicraftlab-dev/aicraft-cli/pull/3,Add config command for AI provider setup,2025-03-06T20:08:51Z,2025-03-06T20:42:29Z,MERGED,1,False,2,Go
+https://github.com/ai-dynamo/nixl/pull/266,plugins/hf3fs: Add 3FS backend,2025-05-07T18:23:15Z,2025-05-22T06:36:59Z,MERGED,341,False,32,C++
+https://github.com/ai-dynamo/dynamo/pull/434,feat: Extract Common Configs + Log Configs on Init + Add `test_` to `sdk/tests` filenames required for pytest,2025-03-29T12:39:56Z,2025-04-09T23:44:52Z,MERGED,4078,False,76,Rust
+https://github.com/ai-dynamo/dynamo/pull/130,feat(sdk): add initial graph structure ,2025-03-13T03:18:50Z,2025-03-14T20:57:18Z,MERGED,4079,False,76,Rust
+https://github.com/ai-christianson/RA.Aid/pull/200,o3 and o4-mini,2025-04-16T20:12:11Z,2025-04-16T20:12:25Z,MERGED,1993,False,20,Python
+https://github.com/ai-christianson/RA.Aid/pull/170,Use React Agent for Deepseek Provider and Deepseek V3 Model,2025-03-27T03:19:21Z,2025-03-27T22:33:03Z,MERGED,1993,False,20,Python
+https://github.com/ag2ai/ag2/pull/1166,Deepseek tests update for openai dependency,2025-02-27T03:56:25Z,2025-02-27T03:58:58Z,MERGED,2611,False,100,Python
+https://github.com/afc163/fanyi/pull/175,Add configurations to support usage of custom LLMs,2025-05-10T15:14:27Z,2025-05-13T05:54:08Z,MERGED,1490,False,21,JavaScript
+https://github.com/ServiceNow/TapeAgents/pull/187,"Standard node, computer tool, agent & env configs",2025-02-12T12:12:33Z,2025-03-04T18:07:38Z,MERGED,270,False,12,Python
+https://github.com/ScrapeGraphAI/Scrapegraph-ai/pull/967,Pre/beta - Unit Tests,2025-04-15T10:38:09Z,2025-04-15T11:02:54Z,MERGED,19716,False,100,Python
+https://github.com/ScrapeGraphAI/Scrapegraph-ai/pull/965,Pre/beta - Unit Tests,2025-04-14T08:19:38Z,2025-04-15T10:12:35Z,MERGED,19716,False,100,Python
+https://github.com/ScrapeGraphAI/Scrapegraph-ai/pull/940,feat: add CLoD integration,2025-03-03T18:01:30Z,2025-03-07T18:58:49Z,MERGED,19716,False,100,Python
+https://github.com/SAP/ai-sdk-js/pull/669,chore(deps): Bump langchain from 0.3.21 to 0.3.22,2025-04-17T23:49:55Z,2025-04-24T16:19:40Z,MERGED,69,False,20,TypeScript
+https://github.com/SAP/ai-sdk-js/pull/635,chore(deps): Bump langchain from 0.3.19 to 0.3.20,2025-04-03T23:13:31Z,2025-04-07T13:57:11Z,MERGED,69,False,20,TypeScript
+https://github.com/PrimeIntellect-ai/protocol/pull/127,feature/toploc-integration,2025-02-26T16:48:08Z,2025-03-10T10:39:34Z,MERGED,57,False,8,Rust
+https://github.com/PaddlePaddle/PaddleNLP/pull/10446,【infer】 predict_dy_insert support more inputs and append attn support excess_blocks input,2025-04-18T14:05:02Z,2025-04-23T12:01:16Z,MERGED,12597,False,100,Python
+https://github.com/NVIDIA/garak/pull/1190,replicate generator pickle support improvements,2025-04-30T20:55:58Z,2025-05-02T16:50:51Z,MERGED,4469,False,43,Python
+https://github.com/NVIDIA/garak/pull/1185,Support stripping until end think token given empty skip_seq_start in config,2025-04-25T16:56:09Z,2025-04-25T22:39:59Z,MERGED,4469,False,43,Python
+https://github.com/NVIDIA/TensorRT-LLM/pull/3115,refactor:[AutoDeploy] Enhance RoPE support,2025-03-26T21:11:07Z,2025-04-11T15:51:24Z,MERGED,10533,False,100,C++
+https://github.com/NVIDIA/NeMo-Guardrails/pull/996,Feat: Support Models with Reasoning Traces,2025-02-14T12:34:18Z,2025-03-05T17:02:08Z,MERGED,4738,False,89,Python
+https://github.com/NVIDIA/NeMo-Guardrails/pull/1047,fix: ensure parse_task_output is called after all llm_call invocations,2025-03-17T11:04:21Z,2025-03-17T16:06:13Z,MERGED,4738,False,89,Python
+https://github.com/NVIDIA/Fuser/pull/4494,Test row parallel linear layers.,2025-05-21T20:49:34Z,2025-05-22T02:24:36Z,MERGED,327,False,28,C++
+https://github.com/KusionStack/karpor/pull/797,feat(ai): Support Deepseek as New AI Backend in Karpor,2025-02-15T12:14:23Z,2025-02-16T12:58:21Z,MERGED,1426,False,29,Go
+https://github.com/Kilo-Org/kilocode/pull/16,add initial support for Fireworks provider,2025-03-12T10:51:23Z,2025-03-17T14:18:00Z,MERGED,439,False,100,TypeScript
+https://github.com/Kiln-AI/Kiln/pull/297,fix: newlines in together_ai thinking output,2025-05-01T17:00:03Z,2025-05-01T17:37:13Z,MERGED,3485,False,6,Python
+https://github.com/FlagOpen/FlagScale/pull/396,[Tools] Support for ckpt conversion of deepseek v3,2025-03-04T09:33:48Z,2025-03-05T08:25:18Z,MERGED,277,False,100,Python
+https://github.com/CherryHQ/cherry-studio/pull/5051,fix(deepseek-reasoner) doesn't support successive user or assistant messages,2025-04-18T15:10:16Z,2025-04-18T17:21:27Z,MERGED,26895,False,100,TypeScript
+https://github.com/ChatGPTNextWeb/NextChat/pull/6204,"add 3 type of reasoning_content support (+deepseek-r1@OpenAI @Alibaba @ByteDance), parse <think></think> from SSE",2025-02-11T04:54:34Z,2025-02-13T06:53:47Z,MERGED,83459,False,100,TypeScript
+https://github.com/BoundaryML/baml/pull/1469,Adding support for Azure AI Foundary,2025-02-17T20:57:38Z,2025-02-17T21:16:44Z,MERGED,3743,False,53,Rust
+https://github.com/BosqueLanguage/BSQON/pull/31,End-end test generation,2025-03-26T00:03:55Z,2025-03-26T15:04:20Z,MERGED,5,False,4,C++
+https://github.com/BosqueLanguage/BSQON/pull/28,AI Test generation,2025-03-15T05:17:06Z,2025-03-21T17:18:50Z,MERGED,5,False,4,C++
+https://github.com/AIGNE-io/aigne-framework/pull/59,feat(ci): support coverage examples with model matrix,2025-04-14T10:40:51Z,2025-04-17T14:12:45Z,MERGED,25,False,5,TypeScript
+https://github.com/AIGNE-io/aigne-framework/pull/53,"feat(core): add model adapters for DeepSeek, Gemini, OpenRouter, and Ollama",2025-04-02T10:22:00Z,2025-04-19T12:44:59Z,MERGED,25,False,5,TypeScript
+https://github.com/AI-Hypercomputer/maxtext/pull/1766,PP support for DeepSeek,2025-05-21T22:56:17Z,2025-05-22T05:29:56Z,MERGED,1728,False,100,Python
+https://github.com/AI-Hypercomputer/maxtext/pull/1746,Add tokenizer's chat template to SFT,2025-05-15T18:42:45Z,2025-05-21T18:14:29Z,MERGED,1728,False,100,Python
+https://github.com/AI-Hypercomputer/maxtext/pull/1719,Add instruction to run DeepSeek logits comparison,2025-05-12T17:58:22Z,2025-05-14T19:57:35Z,MERGED,1728,False,100,Python
+https://github.com/AI-Hypercomputer/maxtext/pull/1537,Generate dataset for distillation,2025-04-07T23:48:03Z,2025-04-28T20:29:54Z,MERGED,1728,False,100,Python
+https://github.com/AI-Hypercomputer/maxtext/pull/1279,Multi-Head Latent Attention for training,2025-02-18T05:25:46Z,2025-02-18T23:48:04Z,MERGED,1728,False,100,Python
+https://github.com/AI-Hypercomputer/maxtext/pull/1260,Yarn Rotary Embedding for DeepSeek v3,2025-02-10T18:46:02Z,2025-02-11T20:03:13Z,MERGED,1728,False,100,Python
+https://github.com/567-labs/instructor/pull/1334,Add Deepseek Reasoning example,2025-02-04T01:27:29Z,2025-02-14T19:31:19Z,MERGED,10484,False,100,Python

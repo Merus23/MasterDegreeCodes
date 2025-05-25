@@ -17,3 +17,8 @@
 - Analisar as strings dos filtros
 - Investigar com string com o nome do modelo ou a lmm
 - Inicar escrita do projeto de dissertação.
+
+## 30/05
+
+- Selecionar amostras (e verificar manual os códigos)
+- Contabilizar a quantidade de arquivos de testes em cada uma das strings.

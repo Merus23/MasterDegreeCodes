@@ -1,0 +1,102 @@
+PR URL,PR Title,PR createdAt,PR mergedAt,PR state,stars,fork,collaborators,language,test_file_count
+https://github.com/yamadashy/repomix/pull/24,feat(output): Add output style option. plain or xml,2024-07-31T17:02:40Z,2024-07-31T17:06:04Z,MERGED,16106,False,48,TypeScript,3
+https://github.com/worldbank/econberta-econie/pull/6,Benchmark openAI in FSL/ZSL,2024-04-22T12:58:31Z,2024-09-26T17:22:08Z,MERGED,14,False,5,Python,1
+https://github.com/wilfredinni/django-starter-template/pull/244,Next,2025-05-08T22:25:58Z,2025-05-08T22:27:35Z,MERGED,39,False,4,Python,2
+https://github.com/usrbinkat/obelisk/pull/9,Feature: Add first rag pipeline mvp,2025-04-12T01:05:58Z,2025-04-12T01:11:08Z,MERGED,10,False,4,Python,11
+https://github.com/tutur3u/platform/pull/2319,Fix update learn page,2025-04-05T07:30:48Z,2025-04-05T09:00:57Z,MERGED,40,False,27,TypeScript,1
+https://github.com/teramotodaiki/kanji-english-blend/pull/8,Improve prompt for kanji usage,2025-01-26T13:01:31Z,2025-01-26T14:16:10Z,MERGED,1,False,2,TypeScript,3
+https://github.com/swarmauri/swarmauri-notebooks/pull/184,Added Module 3 Text Generation notebooks,2024-11-05T14:17:21Z,2024-11-09T12:28:23Z,MERGED,16,False,20,Jupyter Notebook,1
+https://github.com/ssec-jhu/dplutils/pull/132,Bump the all-minor-and-patch-dependency-updates group across 1 directory with 6 updates,2025-04-02T19:15:37Z,2025-04-02T20:36:10Z,MERGED,1,False,4,Python,1
+https://github.com/sourcegraph/cody/pull/7418,feat(auto-edit): experimental inceptionlabs adapter,2025-03-13T09:51:58Z,2025-03-17T03:10:54Z,MERGED,3626,False,100,TypeScript,1
+https://github.com/simonknittel/nextjs-template/pull/66,fix(deps): update patch tuesday,2025-04-04T06:44:12Z,2025-04-05T06:11:26Z,MERGED,1,False,2,TypeScript,0
+https://github.com/shapeshift/web/pull/8166,feat: actually kill splash page,2024-11-21T11:56:07Z,2024-11-28T06:44:24Z,MERGED,183,False,100,TypeScript,1
+https://github.com/shapeshift/web/pull/7985,fix: remove wherever,2024-10-22T14:19:00Z,2024-10-23T08:33:56Z,MERGED,183,False,100,TypeScript,1
+https://github.com/shapeshift/web/pull/7917,fix: swapper transition states,2024-10-10T15:38:53Z,2024-10-23T22:19:11Z,MERGED,183,False,100,TypeScript,2
+https://github.com/sgl-project/sglang/pull/1490,"[API, Feature] Support response prefill for openai API",2024-09-22T09:19:39Z,2024-09-22T13:46:17Z,MERGED,14561,False,100,Python,2
+https://github.com/samchon/openapi/pull/159,fix prompt in ShoppingSalePrompt.ts and achieved 100% success rate,2025-03-15T19:08:44Z,2025-03-15T23:33:07Z,MERGED,106,False,3,TypeScript,3
+https://github.com/rhel-lightspeed/command-line-assistant/pull/135,[RSPEED-506] Little rework to start sending context alongside question,2025-01-23T18:19:55Z,2025-01-27T18:30:38Z,MERGED,7,False,12,Python,6
+https://github.com/portiaAI/portia-sdk-python/pull/400,Update one shot agent,2025-05-08T13:45:04Z,2025-05-12T12:35:55Z,MERGED,151,False,12,Python,4
+https://github.com/portiaAI/portia-sdk-python/pull/107,[POR-637] LLMTool updates,2025-02-03T18:44:25Z,2025-02-05T09:27:22Z,MERGED,151,False,12,Python,2
+https://github.com/pjdaye/greenacre-loan-app/pull/22,STAREAST 2025 updates,2025-04-24T14:10:51Z,2025-04-24T14:34:48Z,MERGED,1,False,3,JavaScript,261
+https://github.com/pixiebrix/pixiebrix-extension/pull/9286,#9092: slice 2.3 support deleting user deployment in extension console,2024-10-15T21:58:35Z,2024-10-16T21:26:30Z,MERGED,85,False,16,TypeScript,1
+https://github.com/pagopa/developer-portal/pull/1391,[CAI-326] - Tagging PagoPA solutions,2025-03-26T14:53:51Z,2025-04-01T14:46:28Z,MERGED,2,False,23,TypeScript,3
+https://github.com/openlit/openlit/pull/477,[Feat]: Update Docs to represent all new features,2024-10-28T17:54:02Z,2024-10-28T17:59:19Z,MERGED,1557,False,33,Python,14
+https://github.com/newjersey/navigator.business.nj.gov/pull/10108,refactor: [AB#13311] Update tax calendar access to no longer be a modal,2025-04-16T13:04:10Z,2025-04-18T14:37:18Z,MERGED,19,False,52,TypeScript,3
+https://github.com/ncsala/Code2ContextExtension/pull/18,Refactor/general improvements,2025-05-13T01:28:28Z,2025-05-13T22:32:15Z,MERGED,3,False,2,TypeScript,0
+https://github.com/milharal-dev/nemli-nemlerei-bot/pull/42,Refactoring on message separation + Prompt engineering,2024-07-26T06:15:00Z,2024-07-26T14:55:07Z,MERGED,10,False,4,Python,1
+https://github.com/microsoft/semantic-kernel/pull/10275,.Net: Improve auto-recovery for Azure{OpenAI} models,2025-01-23T14:42:44Z,2025-01-24T11:14:40Z,MERGED,24711,False,100,C#,1
+https://github.com/microsoft/healthfutures-evagg/pull/97,Initial benchmark refactor,2024-08-13T20:15:22Z,2024-08-21T21:01:06Z,MERGED,10,False,8,Python,1
+https://github.com/microsoft/generative-ai-with-javascript/pull/122,"Fix formatting, spelling, and link issues in lesson files",2025-05-20T17:46:20Z,2025-05-20T18:34:38Z,MERGED,606,False,11,JavaScript,0
+https://github.com/meta-llama/llama-cookbook/pull/937,Notebook for generating evals using sythetic data,2025-05-05T15:51:19Z,2025-05-21T15:01:10Z,MERGED,17338,False,100,Jupyter Notebook,0
+https://github.com/macrocosm-os/apex/pull/217,Features/multiturn conversation,2024-04-23T21:13:11Z,2024-04-30T20:27:54Z,MERGED,104,False,24,Jupyter Notebook,1
+https://github.com/logos-co/nomos/pull/831,Update Rust to 1.82 in Docker images,2024-10-19T03:22:58Z,2024-10-19T15:17:23Z,MERGED,73,False,22,Rust,1
+https://github.com/logos-co/nomos/pull/822,Mix: Remove all of the previous mixnet stuff,2024-10-14T16:25:53Z,2024-10-16T15:19:20Z,MERGED,73,False,22,Rust,5
+https://github.com/kserve/kserve/pull/4352,fix: Register LoRA model name in model registry to avoid not found error,2025-04-02T10:41:51Z,2025-04-06T12:47:05Z,MERGED,4183,False,100,Python,3
+https://github.com/kepelrs/nestjs-prisma-crud/pull/960,fix(deps): update prisma monorepo to v6.5.0,2025-03-15T20:54:32Z,2025-03-18T17:50:51Z,MERGED,153,False,3,TypeScript,2
+https://github.com/intel/AI-PC-Samples/pull/126,Added Guru's Automated Prompt Engineering code sample,2025-01-24T23:45:41Z,2025-03-14T18:37:13Z,MERGED,35,False,18,Jupyter Notebook,0
+https://github.com/getsentry/seer/pull/1553,feat(pr-review): Post generated comments to github,2024-12-06T08:43:15Z,2024-12-11T18:32:22Z,MERGED,119,False,39,Python,2
+https://github.com/getsentry/seer/pull/1207,(autofix): Generate insight cards on separate thread async,2024-09-29T20:46:14Z,2024-09-30T18:32:46Z,MERGED,119,False,39,Python,2
+https://github.com/gdsc-konkuk/24-25-proj-RtoG-Server/pull/4,Add Gemini API integration for wildfire detection,2025-04-30T04:32:07Z,2025-05-02T05:25:15Z,MERGED,2,False,3,Python,1
+https://github.com/existence-master/Sentient/pull/44,"Multi model backend support for Ollama, OpenAI, Gemini & Claude with human-like friendly chat abilities",2025-03-03T06:47:17Z,2025-03-03T06:48:49Z,MERGED,171,False,3,Python,1
+https://github.com/existence-master/Sentient/pull/43,"Multi model backend support for Ollama, OpenAI, Gemini & Claude with human-like friendly chat abilities",2025-03-03T06:39:31Z,2025-03-03T06:42:00Z,MERGED,171,False,3,Python,1
+https://github.com/empirical-org/Empirical-Core/pull/12758,Evidence - FeedbackEvaluator Storage & Basic UI,2025-01-31T20:00:38Z,2025-02-05T21:24:17Z,MERGED,27,False,100,Ruby,6
+https://github.com/elastic/kibana/pull/191847,[Security Solution] AI Assistant - System prompt move,2024-08-30T14:35:48Z,2024-09-11T21:56:00Z,MERGED,20506,False,100,TypeScript,18
+https://github.com/duckduckgo/macos-browser/pull/3508,Add menu option to set as default browser,2024-11-04T21:16:45Z,2024-11-06T09:36:07Z,MERGED,270,False,100,Swift,2
+https://github.com/duckduckgo/macos-browser/pull/3389,Freemium PIR: Subscription Attribution,2024-10-13T10:58:17Z,2024-10-21T11:20:25Z,MERGED,270,False,100,Swift,2
+https://github.com/duckduckgo/iOS/pull/3917,Fix camera alert action,2025-02-03T09:46:08Z,2025-02-03T15:15:40Z,MERGED,1901,False,100,HTML,1
+https://github.com/duckduckgo/iOS/pull/3692,Crash report cohort ID support for iOS,2024-12-06T15:46:00Z,2024-12-19T21:25:37Z,MERGED,1901,False,100,HTML,1
+https://github.com/duckduckgo/iOS/pull/3679,Alessandro/onboarding add to dock experiment setup,2024-12-05T11:45:06Z,2024-12-06T10:47:43Z,MERGED,1901,False,100,HTML,19
+https://github.com/duckduckgo/apple-browsers/pull/799,Fix Bookmark Bar promo popover appearance; Add UI tests,2025-05-20T05:41:44Z,2025-05-21T06:37:24Z,MERGED,63,False,100,Swift,3
+https://github.com/duckduckgo/apple-browsers/pull/697,Update experimental colors,2025-05-08T14:55:29Z,2025-05-12T09:53:55Z,MERGED,63,False,100,Swift,0
+https://github.com/duckduckgo/apple-browsers/pull/458,macOS: dismiss onboarding dialogs,2025-04-07T14:38:15Z,2025-04-14T13:21:25Z,MERGED,63,False,100,Swift,9
+https://github.com/duckduckgo/apple-browsers/pull/452,iOS Credit card details management,2025-04-04T11:36:40Z,2025-04-30T14:37:08Z,MERGED,63,False,100,Swift,5
+https://github.com/duckduckgo/apple-browsers/pull/430,[iOS] Onboarding - Add Skip Option for Returning Users,2025-04-02T10:54:57Z,2025-04-04T14:14:09Z,MERGED,63,False,100,Swift,10
+https://github.com/duckduckgo/apple-browsers/pull/342,iOS autofill settings updated to present saved credit cards,2025-03-26T14:48:57Z,2025-05-01T08:57:25Z,MERGED,63,False,100,Swift,6
+https://github.com/duckduckgo/apple-browsers/pull/328,Authv2 - New web <> native messages for AuthV2,2025-03-25T11:42:45Z,2025-03-31T14:33:53Z,MERGED,63,False,100,Swift,2
+https://github.com/duckduckgo/apple-browsers/pull/28,Add support to import passwords & bookmarks from Safari on iOS 18.2 and above,2025-02-17T13:54:06Z,2025-02-28T21:15:02Z,MERGED,63,False,100,Swift,26
+https://github.com/duckduckgo/apple-browsers/pull/200,Autofill Settings screen split,2025-03-11T20:09:15Z,2025-03-20T14:09:32Z,MERGED,63,False,100,Swift,5
+https://github.com/duckduckgo/BrowserServicesKit/pull/1209,Passwords: Update save pixel with backfilled value,2025-01-31T09:39:59Z,2025-01-31T16:01:32Z,MERGED,53,False,39,Swift,1
+https://github.com/discourse/discourse-ai/pull/1004,FEATURE: Add AI-powered spam detection for new user posts,2024-12-05T05:18:18Z,2024-12-11T22:17:25Z,MERGED,86,False,42,Ruby,1
+https://github.com/dharmab/skyeye/pull/125,improvments from hoggit/lima kilo testing,2024-08-04T23:19:28Z,2024-08-04T23:25:09Z,MERGED,84,False,6,Go,2
+https://github.com/dewitt4/LLMGuardian/pull/10,Create prompt_injection_scanner.py,2024-11-21T21:49:00Z,2024-11-21T21:55:57Z,MERGED,2,False,2,Python,1
+https://github.com/damianvtran/local-operator/pull/60,feat: Enhance agent context serialization and pyenv installation,2025-03-25T01:05:41Z,2025-03-25T01:06:21Z,MERGED,86,False,4,Python,1
+https://github.com/dagster-io/dagster/pull/29529,[docs] Example prompt eng `dg`,2025-04-23T15:47:30Z,2025-04-30T14:17:15Z,MERGED,13199,False,100,Python,1
+https://github.com/dagger/dagger/pull/9628,POC: native LLM support ,2025-02-19T18:48:46Z,2025-03-19T20:20:54Z,MERGED,13727,False,100,Go,25
+https://github.com/cyharyanto/edge-prompt/pull/17,research(Phase 1): Implement Four-Run Cloud/Edge LLM Comparison Frame…,2025-04-27T07:10:20Z,2025-04-27T07:10:29Z,MERGED,2,False,3,Python,2
+https://github.com/cvs-health/uqlm/pull/13,Release PR: v0.1.0,2025-05-06T16:08:38Z,2025-05-06T16:37:51Z,MERGED,79,False,5,Python,2
+https://github.com/couchbaselabs/agent-catalog/pull/81,0.2.0 Agent Catalog Changes,2025-03-05T20:43:36Z,2025-04-18T20:10:36Z,MERGED,8,False,9,Python,94
+https://github.com/codecov/worker/pull/1068,feat: change TA comment footer,2025-02-06T17:25:42Z,2025-02-06T19:09:47Z,MERGED,55,False,62,Python,4
+https://github.com/code-dot-org/code-dot-org/pull/61279,[Aichat] Implement OpenAI GPT 4o mini for safety check,2024-09-23T15:48:36Z,2024-09-25T16:34:15Z,MERGED,861,False,100,JavaScript,2
+https://github.com/code-dot-org/aiproxy/pull/98,Lesson 7 cfe,2024-09-04T19:56:09Z,2024-09-17T20:55:01Z,MERGED,5,False,7,Python,2
+https://github.com/cds-snc/scan-files/pull/1203,chore(deps): update all minor dependencies,2025-03-08T12:59:11Z,2025-03-10T13:08:19Z,MERGED,2,False,15,Python,1
+https://github.com/carbon-design-system/carbon/pull/19167,feat(Pictograms): svgs for v29,2025-04-17T20:32:06Z,2025-04-22T14:33:13Z,MERGED,8377,False,100,TypeScript,3
+https://github.com/ballerina-platform/ballerina-dev-tools/pull/684,Address review suggestions for the natural programming functions feature,2025-03-11T13:21:34Z,2025-03-11T17:01:20Z,MERGED,114,False,60,Java,273
+https://github.com/ava-labs/builders-hub/pull/1565,Feat: Hosted Spanish Docs (#1564),2023-10-25T16:24:56Z,2023-10-27T17:59:42Z,MERGED,180,False,100,MDX,5
+https://github.com/artsy/force/pull/15294,refactor: migrate ArtistNationalityFilter spec from Enzyme to RTL ,2025-03-13T04:07:28Z,2025-03-13T16:55:48Z,MERGED,617,False,100,TypeScript,2
+https://github.com/WillBooster/shared/pull/386,fix(deps): update all non-major dependencies,2025-03-14T20:40:44Z,2025-03-14T20:43:34Z,MERGED,1,False,6,TypeScript,1
+https://github.com/UNO-CSCI4830/ai-feedback/pull/1,Testing data,2025-03-03T04:44:26Z,2025-03-03T15:20:47Z,MERGED,2,False,7,Python,9
+https://github.com/UNLV-CS472-672/2025-S-GROUP6-PRISM/pull/88,Data extraction from cg autotest,2025-04-28T06:51:21Z,2025-05-01T06:45:39Z,MERGED,1,False,12,Python,1
+https://github.com/UKGovernmentBEIS/inspect_ai/pull/1539,`think()` tool that provides models with the ability to include an additional thinking step,2025-03-23T21:37:32Z,2025-03-23T21:51:31Z,MERGED,965,False,100,Python,1
+https://github.com/Quramy/prisma-fabbrica/pull/446,fix(deps): update prisma monorepo to v6.5.0,2025-03-15T07:34:02Z,2025-03-16T11:38:50Z,MERGED,289,False,12,TypeScript,1
+https://github.com/PrefectHQ/prefect/pull/9707,Add interactive prompts for deployment name and work pool to `prefect deploy`,2023-05-24T12:30:00Z,2023-05-25T14:34:32Z,MERGED,19324,False,100,Python,1
+https://github.com/PrefectHQ/prefect/pull/9686,Add interactive prompt to `prefect work-pool create`,2023-05-22T21:30:15Z,2023-05-24T21:00:09Z,MERGED,19324,False,100,Python,3
+https://github.com/PrefectHQ/prefect/pull/8725,Adds worker command output when applying deployments with a work pool,2023-03-07T03:11:08Z,2023-03-07T20:56:10Z,MERGED,19324,False,100,Python,3
+https://github.com/Open-TutorAi/open-tutor-ai-CE/pull/40,feat: Integrate avatars with unique personalities and sync translations,2025-03-21T18:50:21Z,2025-03-24T06:34:10Z,MERGED,10,False,8,Svelte,5
+https://github.com/NVIDIA/garak/pull/870,payload/probe separation,2024-09-02T14:40:37Z,2024-09-18T19:08:34Z,MERGED,4469,False,43,Python,1
+https://github.com/Lightning-AI/LitServe/pull/399,fix openai usage info for non-streaming response,2024-12-18T12:42:33Z,2024-12-18T12:57:24Z,MERGED,3121,False,35,Python,1
+https://github.com/Lightning-AI/LitServe/pull/394,Make `LitAPI.predict` optional and validate API implementation,2024-12-11T21:55:44Z,2024-12-12T18:08:17Z,MERGED,3121,False,35,Python,2
+https://github.com/Lightning-AI/LitServe/pull/393,Add `loop.pre_setup` to allow fine-grained LitAPI validation based on inference loop,2024-12-11T13:32:27Z,2024-12-11T17:07:44Z,MERGED,3121,False,35,Python,3
+https://github.com/Lightning-AI/LitServe/pull/369,Fix: Make OpenAIEmbedding work when token usage info is not set,2024-11-27T00:47:03Z,2024-11-27T11:38:29Z,MERGED,3121,False,35,Python,1
+https://github.com/JohnSnowLabs/spark-nlp/pull/14449,[SPARKNLP-1092] Adding support to read HTML files,2024-11-04T22:34:34Z,2024-12-09T14:27:07Z,MERGED,3979,False,100,Scala,5
+https://github.com/DataBytes-Organisation/Fine-Tuning-LLMs-for-Enterprise-Applications/pull/6,Added Covid-19 dataset for chatbot fine-tuning,2025-05-15T08:24:46Z,2025-05-15T08:24:58Z,MERGED,3,False,6,Jupyter Notebook,6
+https://github.com/DataBytes-Organisation/Fine-Tuning-LLMs-for-Enterprise-Applications/pull/5,Yu cheng joshua branch,2025-05-15T06:37:10Z,2025-05-15T06:37:22Z,MERGED,3,False,6,Jupyter Notebook,4
+https://github.com/Cray-HPE/docs-csm/pull/5617,STP-3724: Finalize `docs-sat` move to `docs-csm`,2024-12-20T11:38:42Z,2025-01-07T20:10:16Z,MERGED,29,False,100,Python,0
+https://github.com/Common-SenseMakers/sensemakers/pull/202,Nlp dev,2024-11-26T19:36:39Z,2024-12-12T11:08:05Z,MERGED,2,False,4,JavaScript,4
+https://github.com/Civic-Tech-Ballot-Inititiave/Ballot-Initiative/pull/7,Transport files from other repository,2024-05-23T02:52:33Z,2024-05-23T02:52:50Z,MERGED,9,False,9,Jupyter Notebook,5
+https://github.com/CircleCI-Public/mcp-server-circleci/pull/47,refactor: `recommendPromptTemplateTests` handler for greater file output consistency,2025-05-05T18:28:22Z,2025-05-08T13:52:27Z,MERGED,37,False,7,TypeScript,1
+https://github.com/CDCgov/prime-reportstream/pull/17033,Updating Terraform Azure Service Principal PRIME-ReportStream-Terraform,2025-01-09T19:40:06Z,2025-01-13T22:31:14Z,MERGED,79,False,100,Kotlin,1
+https://github.com/AzureAD/microsoft-authentication-library-for-objc/pull/2504,Kasong/automation add retry,2025-01-27T16:53:31Z,2025-01-27T17:45:22Z,MERGED,291,False,94,Swift,2
+https://github.com/AzureAD/microsoft-authentication-library-for-objc/pull/2367,Add authority picker and default prompt type to MSAL Mac Test App,2024-10-11T07:33:11Z,2024-10-14T17:47:48Z,MERGED,291,False,94,Swift,2
+https://github.com/AzureAD/microsoft-authentication-library-common-for-objc/pull/1429,Adding network error check,2024-10-03T21:51:58Z,2024-10-09T20:25:42Z,MERGED,46,False,77,Objective-C,11
+https://github.com/Automattic/woocommerce-payments/pull/7228,Release branch for 6.5.0,2023-09-17T12:07:19Z,2023-09-21T18:29:44Z,MERGED,182,False,100,PHP,73
+https://github.com/All-in-one-move/AIM-14-AI-VLM/pull/15,[AIM-63] feat: GPT-4o-Mini VLM Model Prompt Engineering (v1),2024-11-05T07:18:46Z,2024-11-05T08:20:18Z,MERGED,2,False,2,Python,1

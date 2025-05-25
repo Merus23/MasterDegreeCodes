@@ -1,0 +1,50 @@
+PR URL,PR Title,PR createdAt,PR mergedAt,PR state,stars,fork,collaborators,language,test_file_count
+https://github.com/zyang37/beyond_vector_search/pull/64,Bump transformers from 4.35.0 to 4.36.0 in /zy_testing,2023-12-20T21:10:50Z,2023-12-20T21:11:02Z,MERGED,1,False,4,Jupyter Notebook,1
+https://github.com/vllm-project/vllm/pull/8515,"[Model] Add mistral function calling format to all models loaded with ""mistral"" format",2024-09-16T18:56:42Z,2024-09-17T17:50:37Z,MERGED,47851,False,100,Python,1
+https://github.com/vllm-project/vllm/pull/8515,"[Model] Add mistral function calling format to all models loaded with ""mistral"" format",2024-09-16T18:56:42Z,2024-09-17T17:50:37Z,MERGED,47852,False,100,Python,1
+https://github.com/vllm-project/vllm/pull/8515,"[Model] Add mistral function calling format to all models loaded with ""mistral"" format",2024-09-16T18:56:42Z,2024-09-17T17:50:37Z,MERGED,47852,False,100,Python,1
+https://github.com/vllm-project/vllm/pull/7739,[Model] Add Mistral Tokenization to improve robustness and chat encoding,2024-08-21T14:53:18Z,2024-08-27T12:40:03Z,MERGED,47851,False,100,Python,1
+https://github.com/vllm-project/vllm/pull/7739,[Model] Add Mistral Tokenization to improve robustness and chat encoding,2024-08-21T14:53:18Z,2024-08-27T12:40:03Z,MERGED,47852,False,100,Python,1
+https://github.com/vllm-project/vllm/pull/7739,[Model] Add Mistral Tokenization to improve robustness and chat encoding,2024-08-21T14:53:18Z,2024-08-27T12:40:03Z,MERGED,47852,False,100,Python,1
+https://github.com/vllm-project/vllm/pull/2062,Added DeciLM-7b and DeciLM-7b-instruct,2023-12-12T17:27:25Z,2023-12-19T10:29:34Z,MERGED,47851,False,100,Python,1
+https://github.com/vllm-project/vllm/pull/2062,Added DeciLM-7b and DeciLM-7b-instruct,2023-12-12T17:27:25Z,2023-12-19T10:29:34Z,MERGED,47852,False,100,Python,1
+https://github.com/vllm-project/vllm/pull/2062,Added DeciLM-7b and DeciLM-7b-instruct,2023-12-12T17:27:25Z,2023-12-19T10:29:34Z,MERGED,47852,False,100,Python,1
+https://github.com/vllm-project/vllm/pull/16219,"[Bugfix] Do not skip ""empty"" parts of chats that are parsable",2025-04-07T22:42:27Z,2025-04-08T05:14:15Z,MERGED,47851,False,100,Python,1
+https://github.com/vllm-project/vllm/pull/16219,"[Bugfix] Do not skip ""empty"" parts of chats that are parsable",2025-04-07T22:42:27Z,2025-04-08T05:14:15Z,MERGED,47852,False,100,Python,1
+https://github.com/vllm-project/vllm/pull/16219,"[Bugfix] Do not skip ""empty"" parts of chats that are parsable",2025-04-07T22:42:27Z,2025-04-08T05:14:15Z,MERGED,47852,False,100,Python,1
+https://github.com/thunlp/Prompt-Transferability/pull/18,Bump transformers from 4.28.1 to 4.36.0 in /Prompt-Transferability-2.0-latest,2023-12-20T21:08:56Z,2024-05-03T20:04:13Z,MERGED,99,False,7,Python,1
+https://github.com/thunlp/Prompt-Transferability/pull/18,Bump transformers from 4.28.1 to 4.36.0 in /Prompt-Transferability-2.0-latest,2023-12-20T21:08:56Z,2024-05-03T20:04:13Z,MERGED,99,False,7,Python,1
+https://github.com/thunlp/Prompt-Transferability/pull/18,Bump transformers from 4.28.1 to 4.36.0 in /Prompt-Transferability-2.0-latest,2023-12-20T21:08:56Z,2024-05-03T20:04:13Z,MERGED,99,False,7,Python,1
+https://github.com/ray-project/ray-educational-materials/pull/113,Bump transformers from 4.30.0 to 4.36.0 in /tests/semantic_segmentation_course,2023-12-20T22:51:25Z,2023-12-20T22:51:54Z,MERGED,402,False,8,Jupyter Notebook,1
+https://github.com/ray-project/ray-educational-materials/pull/113,Bump transformers from 4.30.0 to 4.36.0 in /tests/semantic_segmentation_course,2023-12-20T22:51:25Z,2023-12-20T22:51:54Z,MERGED,402,False,8,Jupyter Notebook,1
+https://github.com/mediocreatmybest/gaslightingeveryone/pull/48,Bump transformers from 4.30.0 to 4.36.0 in /Colab/files,2023-12-20T21:11:08Z,2023-12-29T09:07:41Z,MERGED,9,False,2,Python,1
+https://github.com/kaito-project/kaito/pull/195,chore: bump transformers from 4.33.3 to 4.36.0 in /presets/models/falcon,2023-12-20T21:14:16Z,2024-01-09T07:30:31Z,MERGED,614,False,31,Go,1
+https://github.com/kaito-project/kaito/pull/195,chore: bump transformers from 4.33.3 to 4.36.0 in /presets/models/falcon,2023-12-20T21:14:16Z,2024-01-09T07:30:31Z,MERGED,614,False,31,Go,1
+https://github.com/kaito-project/kaito/pull/195,chore: bump transformers from 4.33.3 to 4.36.0 in /presets/models/falcon,2023-12-20T21:14:16Z,2024-01-09T07:30:31Z,MERGED,614,False,31,Go,1
+https://github.com/intel/llm-on-ray/pull/60,Bump transformers from 4.35.2 to 4.36.0 in /tests,2024-01-16T02:04:36Z,2024-01-17T08:49:32Z,MERGED,127,False,22,Python,1
+https://github.com/intel/llm-on-ray/pull/60,Bump transformers from 4.35.2 to 4.36.0 in /tests,2024-01-16T02:04:36Z,2024-01-17T08:49:32Z,MERGED,127,False,22,Python,1
+https://github.com/intel/llm-on-ray/pull/60,Bump transformers from 4.35.2 to 4.36.0 in /tests,2024-01-16T02:04:36Z,2024-01-17T08:49:32Z,MERGED,127,False,22,Python,1
+https://github.com/intel/intel-extension-for-transformers/pull/479,Add mistralai model support for text-generation,2023-10-16T09:45:13Z,2023-10-25T09:10:08Z,MERGED,2170,False,100,Python,1
+https://github.com/intel/intel-extension-for-transformers/pull/479,Add mistralai model support for text-generation,2023-10-16T09:45:13Z,2023-10-25T09:10:08Z,MERGED,2170,False,100,Python,1
+https://github.com/intel/intel-extension-for-transformers/pull/1004,Bump transformers from 4.34.1 to 4.36.0 in /intel_extension_for_transformers/llm/runtime/deprecated/test/pytest,2023-12-20T21:14:13Z,2023-12-21T01:52:57Z,MERGED,2170,False,100,Python,1
+https://github.com/google/minja/pull/2,Support mistralai/Mistral-Nemo-Instruct-2407,2024-12-04T17:58:11Z,2024-12-04T17:58:22Z,MERGED,140,False,8,C++,3
+https://github.com/google/minja/pull/2,Support mistralai/Mistral-Nemo-Instruct-2407,2024-12-04T17:58:11Z,2024-12-04T17:58:22Z,MERGED,140,False,8,C++,3
+https://github.com/google/minja/pull/2,Support mistralai/Mistral-Nemo-Instruct-2407,2024-12-04T17:58:11Z,2024-12-04T17:58:22Z,MERGED,140,False,8,C++,3
+https://github.com/edwardzjl/chatbot/pull/218,fix: fix mistral instruct prompt,2023-12-24T07:01:01Z,2023-12-24T07:01:43Z,MERGED,8,False,4,JavaScript,1
+https://github.com/edwardzjl/chatbot/pull/218,fix: fix mistral instruct prompt,2023-12-24T07:01:01Z,2023-12-24T07:01:43Z,MERGED,8,False,4,JavaScript,1
+https://github.com/edwardzjl/chatbot/pull/218,fix: fix mistral instruct prompt,2023-12-24T07:01:01Z,2023-12-24T07:01:43Z,MERGED,8,False,4,JavaScript,1
+https://github.com/deepset-ai/haystack/pull/6205,feat: Add `HuggingFaceTGIGenerator` Haystack 2.x component,2023-10-31T13:09:49Z,2023-11-02T18:35:17Z,MERGED,20814,False,100,Python,1
+https://github.com/axolotl-ai-cloud/axolotl/pull/982,fix mistral prompt assembly,2023-12-20T01:38:22Z,2023-12-21T16:00:55Z,MERGED,9403,False,100,Python,1
+https://github.com/axolotl-ai-cloud/axolotl/pull/982,fix mistral prompt assembly,2023-12-20T01:38:22Z,2023-12-21T16:00:55Z,MERGED,9403,False,100,Python,1
+https://github.com/axolotl-ai-cloud/axolotl/pull/982,fix mistral prompt assembly,2023-12-20T01:38:22Z,2023-12-21T16:00:55Z,MERGED,9403,False,100,Python,1
+https://github.com/aws-samples/awsome-distributed-training/pull/110,Bump transformers from 4.33.0 to 4.36.0 in /3.test_cases/12.SM-dataparallel-FSDP/scripts,2024-01-23T00:40:09Z,2024-01-23T00:40:40Z,MERGED,296,False,62,Shell,1
+https://github.com/aws-samples/awsome-distributed-training/pull/110,Bump transformers from 4.33.0 to 4.36.0 in /3.test_cases/12.SM-dataparallel-FSDP/scripts,2024-01-23T00:40:09Z,2024-01-23T00:40:40Z,MERGED,296,False,62,Shell,1
+https://github.com/aws-samples/awsome-distributed-training/pull/110,Bump transformers from 4.33.0 to 4.36.0 in /3.test_cases/12.SM-dataparallel-FSDP/scripts,2024-01-23T00:40:09Z,2024-01-23T00:40:40Z,MERGED,296,False,62,Shell,1
+https://github.com/aws-samples/awsome-distributed-training/pull/109,Bump transformers from 4.31 to 4.36.0 in /3.test_cases/13.SM-dataparallel-deepspeed/code,2024-01-23T00:39:59Z,2024-01-23T00:41:00Z,MERGED,296,False,62,Shell,1
+https://github.com/aws-samples/awsome-distributed-training/pull/109,Bump transformers from 4.31 to 4.36.0 in /3.test_cases/13.SM-dataparallel-deepspeed/code,2024-01-23T00:39:59Z,2024-01-23T00:41:00Z,MERGED,296,False,62,Shell,1
+https://github.com/aws-samples/awsome-distributed-training/pull/109,Bump transformers from 4.31 to 4.36.0 in /3.test_cases/13.SM-dataparallel-deepspeed/code,2024-01-23T00:39:59Z,2024-01-23T00:41:00Z,MERGED,296,False,62,Shell,1
+https://github.com/Youngermaster/Learning-Programming-Languages/pull/48,Bump transformers from 4.31.0 to 4.36.0 in /Python/randomCodes/facebook-bart-large-cnn-summary-test,2023-12-20T21:11:36Z,2024-01-04T03:05:12Z,MERGED,2,False,4,JavaScript,1
+https://github.com/Youngermaster/Learning-Programming-Languages/pull/48,Bump transformers from 4.31.0 to 4.36.0 in /Python/randomCodes/facebook-bart-large-cnn-summary-test,2023-12-20T21:11:36Z,2024-01-04T03:05:12Z,MERGED,2,False,4,JavaScript,1
+https://github.com/FAI3network/ICP_MVP/pull/44,35 context association tests,2025-02-24T19:24:38Z,2025-03-09T12:24:34Z,MERGED,1,False,5,Rust,2
+https://github.com/FAI3network/ICP_MVP/pull/44,35 context association tests,2025-02-24T19:24:38Z,2025-03-09T12:24:34Z,MERGED,1,False,5,Rust,2
+https://github.com/FAI3network/ICP_MVP/pull/44,35 context association tests,2025-02-24T19:24:38Z,2025-03-09T12:24:34Z,MERGED,1,False,5,Rust,2

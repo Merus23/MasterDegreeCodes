@@ -1,0 +1,29 @@
+PR URL,PR Title,PR createdAt,PR mergedAt,PR state,stars,fork,collaborators,language,test_file_count
+https://github.com/wbrown/gpt_bpe/pull/49,Llama 3 Support,2024-07-30T14:28:27Z,2024-08-27T16:30:14Z,MERGED,24,False,8,Go,5
+https://github.com/vllm-project/vllm/pull/7086,[CORE] [QUANT] Support for GPTQModel's `dynamic` quantization per module override/control,2024-08-02T18:12:03Z,2025-02-12T17:19:44Z,MERGED,47849,False,100,Python,2
+https://github.com/vllm-project/vllm/pull/7086,[CORE] [QUANT] Support for GPTQModel's `dynamic` quantization per module override/control,2024-08-02T18:12:03Z,2025-02-12T17:19:44Z,MERGED,47849,False,100,Python,2
+https://github.com/vllm-project/vllm/pull/4442,[CORE] Quantized lm-head Framework,2024-04-29T00:47:05Z,2024-07-02T22:25:17Z,MERGED,47849,False,100,Python,4
+https://github.com/vllm-project/vllm/pull/2062,Added DeciLM-7b and DeciLM-7b-instruct,2023-12-12T17:27:25Z,2023-12-19T10:29:34Z,MERGED,47849,False,100,Python,1
+https://github.com/tenstorrent/tt-torch/pull/295,Add llama 3b [#289],2025-02-08T19:16:09Z,2025-02-08T21:42:04Z,MERGED,16,False,22,Python,5
+https://github.com/sozercan/aikit/pull/284,chore: update llama3 sha256,2024-06-08T08:48:28Z,2024-06-08T09:30:14Z,MERGED,450,False,5,Go,2
+https://github.com/pytorch/serve/pull/2458,Example for Llama2 on Inf2,2023-07-12T03:47:19Z,2023-09-19T22:38:31Z,MERGED,4325,False,100,Java,1
+https://github.com/kitops-ml/kitops/pull/742,Enable kit import to download files using the huggingface API instead of Git,2025-02-03T20:30:06Z,2025-02-06T16:40:50Z,MERGED,798,False,27,Go,2
+https://github.com/intel/ai-containers/pull/309,Bump the pytorch group across 1 directory with 14 updates,2024-08-14T16:52:00Z,2024-08-14T18:34:05Z,MERGED,45,False,26,Python,1
+https://github.com/huggingface/transformers/pull/25224,🚨🚨🚨 [`SPM`] Finish fix spm models 🚨🚨🚨,2023-08-01T07:29:22Z,2023-08-17T15:08:06Z,MERGED,144656,False,100,Python,2
+https://github.com/huggingface/optimum-neuron/pull/413,Do not upload NeuronModelForCausalLM weights when they can be reconstructed from the hub,2024-01-17T14:26:19Z,2024-01-18T10:49:46Z,MERGED,227,False,34,Jupyter Notebook,2
+https://github.com/h2oai/h2ogpt/pull/1588,Ensure llama-3 or other chat template based models handled,2024-04-29T16:10:07Z,2024-04-29T16:21:49Z,MERGED,11815,False,75,Python,1
+https://github.com/griptape-ai/griptape/pull/1293,Bump the dependencies group across 1 directory with 18 updates,2024-10-28T18:23:32Z,2024-10-28T22:29:56Z,MERGED,2298,False,37,Python,1
+https://github.com/ggml-org/llama.cpp/pull/9943,ggml:metal Add POOL2D op and fix IM2COL in Metal backend for running MobileVLM_V2.,2024-10-18T15:49:25Z,2024-10-23T10:33:45Z,MERGED,80699,False,100,C++,1
+https://github.com/ggml-org/llama.cpp/pull/7866,`json`: refine whitespace rules to avoid runaways,2024-06-11T01:00:19Z,2024-06-11T01:22:57Z,MERGED,80699,False,100,C++,1
+https://github.com/ggml-org/llama.cpp/pull/7075,convert-hf : save memory with lazy evaluation,2024-05-04T14:41:41Z,2024-05-08T22:16:38Z,MERGED,80699,False,100,C++,1
+https://github.com/ggml-org/llama.cpp/pull/6930,Improve usability of --model-url & related flags,2024-04-26T14:26:35Z,2024-04-29T23:52:50Z,MERGED,80699,False,100,C++,1
+https://github.com/deepset-ai/haystack/pull/6199,feat: Add `HuggingFaceTGIChatGenerator` Haystack 2.x component,2023-10-30T14:14:26Z,2023-11-06T08:48:46Z,MERGED,20814,False,100,Python,5
+https://github.com/climatepolicyradar/navigator-search-indexer/pull/148,feat(deps): bump the all group with 8 updates,2024-11-01T15:03:52Z,2024-11-04T10:15:57Z,MERGED,2,False,11,Python,1
+https://github.com/carlrobertoh/ProxyAI/pull/552,feat: Support Stable Code Instruct 3B,2024-05-15T06:48:41Z,2024-05-16T19:28:54Z,MERGED,1607,False,41,Kotlin,1
+https://github.com/NVIDIA/NeMo/pull/12821,[automodel] Add FSDPv2-compatible context parallelism support.,2025-03-31T21:32:36Z,2025-04-06T22:50:08Z,MERGED,14556,False,100,Python,7
+https://github.com/Lightning-AI/torchmetrics/pull/2553,build(deps): update huggingface-hub requirement from <0.23 to <0.24 in /requirements,2024-05-20T23:47:35Z,2024-05-21T12:38:35Z,MERGED,2272,False,100,Python,1
+https://github.com/Lightning-AI/litgpt/pull/552,Read the default encoding configuration from the tokenizer,2023-09-15T15:47:42Z,2023-09-19T18:18:29Z,MERGED,12139,False,100,Python,1
+https://github.com/Lightning-AI/litgpt/pull/1859,add Llama-3.3-70B-Instruct,2024-12-07T01:34:08Z,2024-12-07T13:48:59Z,MERGED,12139,False,100,Python,1
+https://github.com/Lightning-AI/litgpt/pull/1752,Repair json files,2024-09-26T20:09:04Z,2024-09-26T22:08:08Z,MERGED,12139,False,100,Python,1
+https://github.com/InternLM/lmdeploy/pull/2862,Fix llama3.1 chat template,2024-12-06T03:29:12Z,2024-12-16T04:14:40Z,MERGED,6391,False,100,Python,1
+https://github.com/InternLM/lmdeploy/pull/2862,Fix llama3.1 chat template,2024-12-06T03:29:12Z,2024-12-16T04:14:40Z,MERGED,6391,False,100,Python,1
